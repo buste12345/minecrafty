@@ -1,0 +1,13 @@
+#config.yml - Written by McMyAdmin v2.5.4.0
+
+users:
+    caplaw:
+        groups:
+          - 'default'
+
+groups:
+    default:
+        permissions:
+            bukkit.command.*: true
+            permissions.build: true
+

@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "44dcff5b-fef7-318e-8a73-78fc9789595b",
+    "name": "caplaw",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "15a51bc1-be06-3689-820e-def4321f2334",
+    "name": "Nemesis",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "2d800c02-a318-37cc-b16e-8030de80e3a4",
+    "name": "Geomg",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

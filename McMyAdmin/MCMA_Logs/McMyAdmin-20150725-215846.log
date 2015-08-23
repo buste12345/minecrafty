@@ -1,0 +1,168 @@
+Notice	: Detecting System...
+Notice	: No virtualized environment detected.
+Notice	: Linux Distribution: Ubuntu
+Notice	: Detection complete.
+Warning : No Minecraft configuration file found (Normal on a first start)
+Notice	: Detected Java runtime version 1.8.0
+Error	: McMyAdmin was not shut down properly!
+Error	: To avoid potential data loss, please perform /quit on this console.
+Error	: Startup will resume in 5 seconds...
+Notice	: Starting McMyAdmin Personal v2.5.4.0
+Warning : No saved group information was found. Loading Defaults.
+Notice	: Upgraded 4 legacy groups
+Notice	: No saved schedule was found. Loading Defaults.
+Notice	: Checking for updates...
+Notice	: Starting webserver...
+Notice	: Checking for Minecraft Server updates...
+Notice	: McMyAdmin has started and is ready for use.
+Notice	: This is the first time McMyAdmin has been started.
+Notice	: You must complete the first-start wizard via the web interface.
+Notice	: Checking for Minecraft Server updates...
+Notice	: Updating Minecraft server...
+Notice	: Downloading latest Minecraft server...
+Notice	: Download complete.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [22:08:08] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [22:08:08] [Server thread/INFO]: Loading properties
+Console	: [22:08:08] [Server thread/WARN]: Failed to load eula.txt
+Console	: [22:08:08] [Server thread/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
+Console	: [22:08:08] [Server thread/INFO]: Stopping server
+Notice	: Minecraft server has stopped running.
+Warning : Known failure. Not attempting to restart server.
+Warning : Failure Reason: EULA
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [22:08:24] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [22:08:24] [Server thread/INFO]: Loading properties
+Console	: [22:08:24] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [22:08:24] [Server thread/INFO]: Generating keypair
+Console	: [22:08:24] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [22:08:25] [Server thread/INFO]: Using epoll channel type
+Console	: [22:08:25] [Server thread/WARN]: Failed to load user banlist: 
+Console	: java.io.FileNotFoundException: banned-players.json (No such file or directory)
+Console	: 	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_45]
+Console	: 	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_45]
+Console	: 	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_45]
+Console	: 	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.jar:?]
+Console	: 	at mb.g(SourceFile:124) ~[minecraft_server.jar:?]
+Console	: 	at kn.z(SourceFile:99) [minecraft_server.jar:?]
+Console	: 	at kn.<init>(SourceFile:25) [minecraft_server.jar:?]
+Console	: 	at ko.i(SourceFile:172) [minecraft_server.jar:?]
+Console	: 	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [minecraft_server.jar:?]
+Console	: 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_45]
+Console	: [22:08:25] [Server thread/WARN]: Failed to load ip banlist: 
+Console	: java.io.FileNotFoundException: banned-ips.json (No such file or directory)
+Console	: 	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_45]
+Console	: 	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_45]
+Console	: 	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_45]
+Console	: 	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.jar:?]
+Console	: 	at mb.g(SourceFile:124) ~[minecraft_server.jar:?]
+Console	: 	at kn.y(SourceFile:91) [minecraft_server.jar:?]
+Console	: 	at kn.<init>(SourceFile:27) [minecraft_server.jar:?]
+Console	: 	at ko.i(SourceFile:172) [minecraft_server.jar:?]
+Console	: 	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [minecraft_server.jar:?]
+Console	: 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_45]
+Console	: [22:08:25] [Server thread/WARN]: Failed to load operators list: 
+Console	: java.io.FileNotFoundException: ops.json (No such file or directory)
+Console	: 	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_45]
+Console	: 	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_45]
+Console	: 	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_45]
+Console	: 	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.jar:?]
+Console	: 	at mb.g(SourceFile:124) ~[minecraft_server.jar:?]
+Console	: 	at kn.A(SourceFile:107) [minecraft_server.jar:?]
+Console	: 	at kn.<init>(SourceFile:29) [minecraft_server.jar:?]
+Console	: 	at ko.i(SourceFile:172) [minecraft_server.jar:?]
+Console	: 	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [minecraft_server.jar:?]
+Console	: 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_45]
+Console	: [22:08:25] [Server thread/WARN]: Failed to load white-list: 
+Console	: java.io.FileNotFoundException: whitelist.json (No such file or directory)
+Console	: 	at java.io.FileInputStream.open0(Native Method) ~[?:1.8.0_45]
+Console	: 	at java.io.FileInputStream.open(FileInputStream.java:195) ~[?:1.8.0_45]
+Console	: 	at java.io.FileInputStream.<init>(FileInputStream.java:138) ~[?:1.8.0_45]
+Console	: 	at com.google.common.io.Files.newReader(Files.java:86) ~[minecraft_server.jar:?]
+Console	: 	at mb.g(SourceFile:124) ~[minecraft_server.jar:?]
+Console	: 	at kn.C(SourceFile:123) [minecraft_server.jar:?]
+Console	: 	at kn.<init>(SourceFile:30) [minecraft_server.jar:?]
+Console	: 	at ko.i(SourceFile:172) [minecraft_server.jar:?]
+Console	: 	at net.minecraft.server.MinecraftServer.run(SourceFile:421) [minecraft_server.jar:?]
+Console	: 	at java.lang.Thread.run(Thread.java:745) [?:1.8.0_45]
+Console	: [22:08:25] [Server thread/INFO]: Preparing level "world"
+Console	: [22:08:26] [Server thread/INFO]: Preparing start region for level 0
+Console	: [22:08:27] [Server thread/INFO]: Preparing spawn area: 3%
+Console	: [22:08:28] [Server thread/INFO]: Preparing spawn area: 5%
+Console	: [22:08:29] [Server thread/INFO]: Preparing spawn area: 7%
+Console	: [22:08:30] [Server thread/INFO]: Preparing spawn area: 10%
+Console	: [22:08:31] [Server thread/INFO]: Preparing spawn area: 14%
+Console	: [22:08:32] [Server thread/INFO]: Preparing spawn area: 18%
+Console	: [22:08:33] [Server thread/INFO]: Preparing spawn area: 21%
+Console	: [22:08:34] [Server thread/INFO]: Preparing spawn area: 26%
+Console	: [22:08:35] [Server thread/INFO]: Preparing spawn area: 30%
+Console	: [22:08:36] [Server thread/INFO]: Preparing spawn area: 35%
+Console	: [22:08:37] [Server thread/INFO]: Preparing spawn area: 39%
+Console	: [22:08:38] [Server thread/INFO]: Preparing spawn area: 45%
+Console	: [22:08:39] [Server thread/INFO]: Preparing spawn area: 51%
+Console	: [22:08:40] [Server thread/INFO]: Preparing spawn area: 58%
+Console	: [22:08:41] [Server thread/INFO]: Preparing spawn area: 64%
+Console	: [22:08:42] [Server thread/INFO]: Preparing spawn area: 69%
+Console	: [22:08:43] [Server thread/INFO]: Preparing spawn area: 76%
+Console	: [22:08:44] [Server thread/INFO]: Preparing spawn area: 84%
+Console	: [22:08:45] [Server thread/INFO]: Preparing spawn area: 88%
+Console	: [22:08:46] [Server thread/INFO]: Preparing spawn area: 94%
+Console	: [22:08:47] [Server thread/INFO]: Preparing spawn area: 99%
+Console	: [22:08:47] [Server thread/INFO]: Done (22.541s)! For help, type "help" or "?"
+Warning : Restarting Minecraft server to perform a configuration change.
+Console	: [22:08:48] [Server thread/INFO]: [Server] Server is restarting. World is being saved.
+Console	: [22:08:48] [Server thread/INFO]: Saving is already turned on.
+Console	: [22:08:48] [Server thread/INFO]: Saving...
+Console	: [22:08:55] [Server thread/INFO]: Saved the world
+Console	: [22:08:55] [Server thread/INFO]: Stopping the server
+Console	: [22:08:59] [Server thread/INFO]: Stopping server
+Console	: [22:08:59] [Server thread/INFO]: Saving players
+Console	: [22:08:59] [Server thread/INFO]: Saving worlds
+Console	: [22:08:59] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [22:08:59] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [22:08:59] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [22:09:10] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [22:09:10] [Server thread/INFO]: Loading properties
+Console	: [22:09:10] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [22:09:10] [Server thread/INFO]: Generating keypair
+Console	: [22:09:10] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [22:09:11] [Server thread/INFO]: Using epoll channel type
+Console	: [22:09:11] [Server thread/INFO]: Preparing level "world"
+Console	: [22:09:11] [Server thread/INFO]: Preparing start region for level 0
+Console	: [22:09:12] [Server thread/INFO]: Preparing spawn area: 13%
+Console	: [22:09:13] [Server thread/INFO]: Preparing spawn area: 40%
+Console	: [22:09:14] [Server thread/INFO]: Preparing spawn area: 67%
+Console	: [22:09:15] [Server thread/INFO]: Done (4.209s)! For help, type "help" or "?"
+Console	: [22:12:24] [User Authenticator #1/INFO]: UUID of player caplaw is f44f7bb3-01e4-4ba6-9bb6-09a553bca7cc
+Console	: [22:12:24] [Server thread/INFO]: caplaw[/190.181.157.5:59446] logged in with entity id 2145 at (32.5, 77.0, 256.5)
+Console	: [22:12:24] [Server thread/INFO]: caplaw joined the game
+Console	: [22:12:24] [Server thread/INFO]: [Server] caplaw has just joined for the first time.
+Console	: [22:12:24] [Server thread/INFO]: [Server] 1 unique players have visited this server.
+Console	: [22:12:26] [Server thread/INFO]: You whisper to caplaw: Que hongo
+Console	: [22:12:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2485ms behind, skipping 49 tick(s)
+Console	: [22:12:54] [Server thread/INFO]: caplaw lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [22:12:54] [Server thread/INFO]: caplaw left the game
+Console	: [22:12:59] [User Authenticator #2/INFO]: UUID of player caplaw is f44f7bb3-01e4-4ba6-9bb6-09a553bca7cc
+Console	: [22:13:00] [Server thread/INFO]: caplaw[/190.181.157.5:59473] logged in with entity id 3764 at (28.443875617002163, 77.0, 255.86680854105722)
+Console	: [22:13:00] [Server thread/INFO]: caplaw joined the game
+Console	: [22:13:00] [Server thread/INFO]: [Server] Welcome back, caplaw
+Console	: [22:13:00] [Server thread/INFO]: You whisper to caplaw: Que hongo
+Console	: [22:13:31] [Server thread/INFO]: caplaw lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [22:13:31] [Server thread/INFO]: caplaw left the game
+Console	: [22:14:49] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved.
+Console	: [22:14:49] [Server thread/INFO]: Saving is already turned on.
+Console	: [22:14:49] [Server thread/INFO]: Saving...
+Console	: [22:14:49] [Server thread/INFO]: Saved the world
+Console	: [22:14:49] [Server thread/INFO]: Stopping the server
+Console	: [22:14:49] [Server thread/INFO]: Stopping server
+Console	: [22:14:49] [Server thread/INFO]: Saving players
+Console	: [22:14:49] [Server thread/INFO]: Saving worlds
+Console	: [22:14:49] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [22:14:49] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [22:14:49] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.

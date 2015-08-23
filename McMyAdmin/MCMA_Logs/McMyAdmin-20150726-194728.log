@@ -1,0 +1,2541 @@
+Notice	: Detecting System...
+Notice	: No virtualized environment detected.
+Notice	: Linux Distribution: Ubuntu
+Notice	: Detection complete.
+Notice	: Detected Java runtime version 1.8.0
+Error	: McMyAdmin was not shut down properly!
+Error	: To avoid potential data loss, please perform /quit on this console.
+Error	: Startup will resume in 5 seconds...
+Notice	: Starting McMyAdmin Personal v2.5.4.0
+Notice	: Checking for updates...
+Notice	: Checking for Minecraft Server updates...
+Notice	: Starting webserver...
+Notice	: McMyAdmin has started and is ready for use.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [19:47:42] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [19:47:42] [Server thread/INFO]: Loading properties
+Console	: [19:47:42] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [19:47:42] [Server thread/INFO]: Generating keypair
+Console	: [19:47:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [19:47:42] [Server thread/INFO]: Using epoll channel type
+Console	: Jul 26, 2015 7:47:45 PM io.netty.util.internal.ThreadLocalRandom getInitialSeedUniquifier
+Console	: WARNING: Failed to generate a seed from SecureRandom within 3 seconds. Not enough entrophy?
+Console	: [19:47:45] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [19:47:45] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [19:47:45] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [19:47:45] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [19:47:45] [Server thread/INFO]: Preparing level "world"
+Console	: [19:47:45] [Server thread/INFO]: Preparing start region for level 0
+Console	: [19:47:46] [Server thread/INFO]: Preparing spawn area: 5%
+Console	: [19:47:47] [Server thread/INFO]: Preparing spawn area: 9%
+Console	: [19:47:49] [Server thread/INFO]: Preparing spawn area: 15%
+Console	: [19:47:50] [Server thread/INFO]: Preparing spawn area: 23%
+Console	: [19:47:51] [Server thread/INFO]: Preparing spawn area: 48%
+Console	: [19:47:52] [Server thread/INFO]: Preparing spawn area: 71%
+Console	: [19:47:53] [Server thread/INFO]: Done (7.624s)! For help, type "help" or "?"
+Console	: [19:48:58] [Server thread/INFO]: caplaw[/190.181.183.106:10678] logged in with entity id 1040 at (-739.2597142659052, 64.0, 505.7429604538796)
+Console	: [19:48:58] [Server thread/INFO]: caplaw joined the game
+Console	: [19:48:58] [Server thread/INFO]: [Server] Welcome back, caplaw
+Console	: [19:48:58] [Server thread/INFO]: You whisper to caplaw: Que hongo
+Console	: [19:54:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [19:54:04] [Server thread/INFO]: caplaw
+Console	: [20:00:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [20:00:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:00:04] [Server thread/INFO]: caplaw
+Console	: [20:00:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [20:00:04] [Server thread/INFO]: Saving...
+Console	: [20:00:04] [Server thread/INFO]: Saved the world
+Console	: [20:00:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [20:06:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:06:04] [Server thread/INFO]: caplaw
+Console	: [20:11:01] [Server thread/INFO]: caplaw has just earned the achievement [Getting Wood]
+Console	: [20:15:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [20:15:04] [Server thread/INFO]: Saving...
+Console	: [20:15:04] [Server thread/INFO]: Saved the world
+Console	: [20:15:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [20:19:50] [Server thread/INFO]: [caplaw: Set the world spawn point to (-738, 64, 507)]
+Console	: [20:25:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:25:04] [Server thread/INFO]: caplaw
+Console	: [20:30:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [20:30:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [20:30:04] [Server thread/INFO]: Saving...
+Console	: [20:30:04] [Server thread/INFO]: Saved the world
+Console	: [20:30:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [20:36:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:36:04] [Server thread/INFO]: caplaw
+Console	: [20:42:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:42:04] [Server thread/INFO]: caplaw
+Console	: [20:45:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [20:45:04] [Server thread/INFO]: Saving...
+Console	: [20:45:04] [Server thread/INFO]: Saved the world
+Console	: [20:45:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [20:51:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:51:04] [Server thread/INFO]: caplaw
+Console	: [20:57:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:57:04] [Server thread/INFO]: caplaw
+Console	: [21:00:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [21:00:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [21:00:04] [Server thread/INFO]: Saving...
+Console	: [21:00:04] [Server thread/INFO]: Saved the world
+Console	: [21:00:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [21:06:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [21:06:04] [Server thread/INFO]: caplaw
+Console	: [21:07:24] [Server thread/INFO]: caplaw has just earned the achievement [Benchmarking]
+Console	: [21:13:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [21:13:04] [Server thread/INFO]: caplaw
+Console	: [21:15:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [21:15:04] [Server thread/INFO]: Saving...
+Console	: [21:15:04] [Server thread/INFO]: Saved the world
+Console	: [21:15:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [21:16:48] [Server thread/INFO]: caplaw lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [21:16:48] [Server thread/INFO]: caplaw left the game
+Console	: [21:21:04] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [21:21:04] [Server thread/INFO]: Saving is already turned on.
+Console	: [21:21:04] [Server thread/INFO]: Saving...
+Console	: [21:21:04] [Server thread/INFO]: Saved the world
+Console	: [21:21:04] [Server thread/INFO]: Stopping the server
+Console	: [21:21:04] [Server thread/INFO]: Stopping server
+Console	: [21:21:04] [Server thread/INFO]: Saving players
+Console	: [21:21:04] [Server thread/INFO]: Saving worlds
+Console	: [21:21:04] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [21:21:04] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [21:21:04] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Console	: [21:21:04] [Server Shutdown Thread/INFO]: Stopping server
+Console	: [21:21:04] [Server Shutdown Thread/INFO]: Saving players
+Console	: [21:21:04] [Server Shutdown Thread/INFO]: Saving worlds
+Console	: [21:21:04] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [22:54:55] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [22:54:55] [Server thread/INFO]: Loading properties
+Console	: [22:54:55] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [22:54:55] [Server thread/INFO]: Generating keypair
+Console	: [22:54:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [22:54:55] [Server thread/INFO]: Using epoll channel type
+Console	: [22:54:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [22:54:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [22:54:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [22:54:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [22:54:55] [Server thread/INFO]: Preparing level "world"
+Console	: [22:54:56] [Server thread/INFO]: Preparing start region for level 0
+Console	: [22:54:57] [Server thread/INFO]: Preparing spawn area: 9%
+Console	: [22:54:58] [Server thread/INFO]: Preparing spawn area: 68%
+Console	: [22:54:58] [Server thread/INFO]: Done (2.972s)! For help, type "help" or "?"
+Console	: [22:54:59] [Server thread/INFO]: caplaw[/190.181.183.106:13093] logged in with entity id 412 at (-739.0598668914281, 75.5625, 511.0127662721528)
+Console	: [22:54:59] [Server thread/INFO]: caplaw joined the game
+Console	: [22:54:59] [Server thread/INFO]: [Server] Welcome back, caplaw
+Console	: [22:54:59] [Server thread/INFO]: You whisper to caplaw: Que hongo
+Console	: [23:00:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:00:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:00:04] [Server thread/INFO]: caplaw
+Console	: [23:00:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:00:04] [Server thread/INFO]: Saving...
+Console	: [23:00:04] [Server thread/INFO]: Saved the world
+Console	: [23:00:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:06:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:06:04] [Server thread/INFO]: caplaw
+Console	: [23:09:33] [Server thread/INFO]: caplaw has just earned the achievement [Time to Mine!]
+Console	: [23:09:33] [Server thread/INFO]: caplaw has just earned the achievement [Getting an Upgrade]
+Console	: [23:15:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:15:04] [Server thread/INFO]: caplaw
+Console	: [23:15:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:15:04] [Server thread/INFO]: Saving...
+Console	: [23:15:04] [Server thread/INFO]: Saved the world
+Console	: [23:15:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:21:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:21:04] [Server thread/INFO]: caplaw
+Console	: [23:27:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:27:04] [Server thread/INFO]: caplaw
+Console	: [23:30:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:30:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:30:04] [Server thread/INFO]: Saving...
+Console	: [23:30:04] [Server thread/INFO]: Saved the world
+Console	: [23:30:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:33:23] [Server thread/INFO]: caplaw has just earned the achievement [Time to Strike!]
+Console	: [23:39:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:39:04] [Server thread/INFO]: caplaw
+Console	: [23:45:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:45:04] [Server thread/INFO]: caplaw
+Console	: [23:45:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:45:04] [Server thread/INFO]: Saving...
+Console	: [23:45:04] [Server thread/INFO]: Saved the world
+Console	: [23:45:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:51:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:51:04] [Server thread/INFO]: caplaw
+Console	: [23:57:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:57:04] [Server thread/INFO]: caplaw
+Console	: [00:00:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [00:00:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:00:04] [Server thread/INFO]: Saving...
+Console	: [00:00:04] [Server thread/INFO]: Saved the world
+Console	: [00:00:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:00:04] [Server thread/INFO]: caplaw lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [00:00:04] [Server thread/INFO]: caplaw left the game
+Console	: [00:05:04] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [00:05:04] [Server thread/INFO]: Saving is already turned on.
+Console	: [00:05:04] [Server thread/INFO]: Saving...
+Console	: [00:05:04] [Server thread/INFO]: Saved the world
+Console	: [00:05:04] [Server thread/INFO]: Stopping the server
+Console	: [00:05:04] [Server thread/INFO]: Stopping server
+Console	: [00:05:04] [Server thread/INFO]: Saving players
+Console	: [00:05:04] [Server thread/INFO]: Saving worlds
+Console	: [00:05:04] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [00:05:04] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [00:05:04] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [07:33:19] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [07:33:19] [Server thread/INFO]: Loading properties
+Console	: [07:33:19] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [07:33:19] [Server thread/INFO]: Generating keypair
+Console	: [07:33:20] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [07:33:20] [Server thread/INFO]: Using epoll channel type
+Console	: [07:33:20] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [07:33:20] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [07:33:20] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [07:33:20] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [07:33:20] [Server thread/INFO]: Preparing level "world"
+Console	: [07:33:20] [Server thread/INFO]: Preparing start region for level 0
+Console	: [07:33:21] [Server thread/INFO]: Preparing spawn area: 22%
+Console	: [07:33:22] [Server thread/INFO]: Done (2.118s)! For help, type "help" or "?"
+Console	: [07:38:04] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [07:38:04] [Server thread/INFO]: Saving is already turned on.
+Console	: [07:38:04] [Server thread/INFO]: Saving...
+Console	: [07:38:04] [Server thread/INFO]: Saved the world
+Console	: [07:38:04] [Server thread/INFO]: Stopping the server
+Console	: [07:38:04] [Server thread/INFO]: Stopping server
+Console	: [07:38:04] [Server thread/INFO]: Saving players
+Console	: [07:38:04] [Server thread/INFO]: Saving worlds
+Console	: [07:38:04] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [07:38:04] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [07:38:04] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Console	: [07:38:04] [Server Shutdown Thread/INFO]: Stopping server
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [21:29:57] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [21:29:57] [Server thread/INFO]: Loading properties
+Console	: [21:29:57] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [21:29:57] [Server thread/INFO]: Generating keypair
+Console	: [21:29:57] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [21:29:58] [Server thread/INFO]: Using epoll channel type
+Console	: [21:29:58] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [21:29:58] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [21:29:58] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [21:29:58] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [21:29:58] [Server thread/INFO]: Preparing level "world"
+Console	: [21:29:58] [Server thread/INFO]: Preparing start region for level 0
+Console	: [21:29:59] [Server thread/INFO]: Preparing spawn area: 53%
+Console	: [21:29:59] [Server thread/INFO]: Done (1.533s)! For help, type "help" or "?"
+Console	: [21:30:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [21:30:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [21:30:04] [Server thread/INFO]: Saving...
+Console	: [21:30:05] [Server thread/INFO]: Saved the world
+Console	: [21:30:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [21:30:43] [Server thread/INFO]: Geomg[/190.212.0.15:50754] logged in with entity id 382 at (-732.5, 58.0, 498.5)
+Console	: [21:30:43] [Server thread/INFO]: Geomg joined the game
+Console	: [21:30:43] [Server thread/INFO]: [Server] Geomg has just joined for the first time.
+Console	: [21:30:43] [Server thread/INFO]: [Server] 2 unique players have visited this server.
+Console	: [21:30:43] [Server thread/INFO]: You whisper to Geomg: Que hongo
+Console	: [21:31:55] [Server thread/INFO]: Geomg has just earned the achievement [Taking Inventory]
+Console	: [21:34:30] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:34:36] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:34:36] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:34:36] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:34:47] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:34:48] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:34:58] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:35:10] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:35:11] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:35:41] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [21:39:37] [Server thread/INFO]: Geomg lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: Error while read(...): Connection reset by peer], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [21:39:37] [Server thread/INFO]: Geomg left the game
+Console	: [21:40:10] [Server thread/INFO]: caplaw[/190.181.173.91:22642] logged in with entity id 654 at (-735.9694922151134, 69.0, 512.2572388742806)
+Console	: [21:40:10] [Server thread/INFO]: caplaw joined the game
+Console	: [21:40:10] [Server thread/INFO]: [Server] Welcome back, caplaw
+Console	: [21:40:10] [Server thread/INFO]: You whisper to caplaw: Que hongo
+Console	: [21:41:44] [Server thread/INFO]: Geomg[/190.212.0.15:51084] logged in with entity id 677 at (-736.8082131970906, 64.0, 502.4163722228177)
+Console	: [21:41:44] [Server thread/INFO]: Geomg joined the game
+Console	: [21:41:44] [Server thread/INFO]: [Server] Welcome back, Geomg
+Console	: [21:41:44] [Server thread/INFO]: You whisper to Geomg: Que hongo
+Console	: [21:41:51] [Server thread/INFO]: <Geomg> que nota
+Console	: [21:41:56] [Server thread/INFO]: <caplaw> q ongo
+Console	: [21:42:03] [Server thread/INFO]: <Geomg> no me acuerdo como era para teleportar xd
+Console	: [21:42:11] [Server thread/INFO]: <caplaw> ni yo mucho menos
+Console	: [21:42:13] [Server thread/INFO]: <caplaw> xd
+Console	: [21:42:18] [Server thread/INFO]: <caplaw> en ese cofre hay cosas
+Console	: [21:42:20] [Server thread/INFO]: <caplaw> que te pueden servir
+Console	: [21:42:25] [Server thread/INFO]: <Geomg> no puedo entrar a la casa
+Console	: [21:42:30] [Server thread/INFO]: <Geomg> ya :0
+Console	: [21:42:33] [Server thread/INFO]: <caplaw> xd
+Console	: [21:42:34] [Server thread/INFO]: <Geomg> antes no podia
+Console	: [21:42:39] [Server thread/INFO]: <caplaw> tenias lag seguro
+Console	: [21:43:08] [Server thread/INFO]: <Geomg> gay xD
+Console	: [21:43:16] [Server thread/INFO]: <Geomg> le va a gustar a axel seguro xD
+Console	: [21:43:27] [Server thread/INFO]: <caplaw> xd awevo
+Console	: [21:43:36] [Server thread/INFO]: <Geomg> como es que se abre?
+Console	: [21:43:40] [Server thread/INFO]: <Geomg> clic derecho no?
+Console	: [21:43:43] [Server thread/INFO]: <caplaw> si
+Console	: [21:43:48] [Server thread/INFO]: <Geomg> pue sno se abre
+Console	: [21:44:19] [Server thread/INFO]: <caplaw> voy a comer aqui voy a estar
+Console	: [21:44:19] [Server thread/INFO]: <Geomg> mia mia mia
+Console	: [21:44:21] [Server thread/INFO]: <caplaw> mina algo
+Console	: [21:44:22] [Server thread/INFO]: <caplaw> xd
+Console	: [21:44:31] [Server thread/INFO]: <caplaw> construi algo xd
+Console	: [21:44:37] [Server thread/INFO]: <caplaw> en un rato colaboro
+Console	: [21:44:41] [Server thread/INFO]: <Geomg> anda dame un pico
+Console	: [21:44:51] [Server thread/INFO]: <caplaw> en el cofre de abajo hay uno
+Console	: [21:45:03] [Server thread/INFO]: <Geomg> no abre el hp
+Console	: [21:45:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [21:45:04] [Server thread/INFO]: Saving...
+Console	: [21:45:04] [Server thread/INFO]: Saved the world
+Console	: [21:45:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [21:45:10] [Server thread/INFO]: <caplaw> dejame ver
+Console	: [21:45:34] [Server thread/INFO]: <caplaw> veni
+Console	: [21:45:56] [Server thread/INFO]: <caplaw> voy a comer ps dame un chance :v
+Console	: [21:46:00] [Server thread/INFO]: Geomg has just earned the achievement [Getting Wood]
+Console	: [21:46:04] [Server thread/INFO]: <Geomg> tenes hacha_
+Console	: [21:46:12] [Server thread/INFO]: <caplaw> si
+Console	: [21:46:20] [Server thread/INFO]: <Geomg> dame
+Console	: [21:46:26] [Server thread/INFO]: <caplaw> veni
+Console	: [21:47:45] [Server thread/INFO]: Geomg has just earned the achievement [Benchmarking]
+Console	: [21:52:28] [Server thread/INFO]: Nemesis[/186.77.223.190:27348] logged in with entity id 3376 at (-733.5, 72.0, 511.5)
+Console	: [21:52:28] [Server thread/INFO]: Nemesis joined the game
+Console	: [21:52:28] [Server thread/INFO]: [Server] Nemesis has just joined for the first time.
+Console	: [21:52:28] [Server thread/INFO]: [Server] 3 unique players have visited this server.
+Console	: [21:52:28] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [21:52:49] [Server thread/INFO]: <Nemesis> hola
+Console	: [21:52:59] [Server thread/INFO]: <caplaw> hola quien sos
+Console	: [21:53:06] [Server thread/INFO]: <Nemesis> soy tu padre
+Console	: [21:53:12] [Server thread/INFO]: <caplaw> :O
+Console	: [21:53:32] [Server thread/INFO]: <Geomg> que me dice el nemesio porras
+Console	: [21:53:34] [Server thread/WARN]: Nemesis moved wrongly!
+Console	: [21:53:37] [Server thread/INFO]: <Nemesis> wtf
+Console	: [21:53:43] [Server thread/INFO]: <Nemesis> no puedo entrar
+Console	: [21:53:45] [Server thread/INFO]: <Geomg> quien sos nemesis_?
+Console	: [21:53:52] [Server thread/INFO]: <Geomg> es que sos hacker
+Console	: [21:53:54] [Server thread/INFO]: <Geomg> valaturca
+Console	: [21:53:58] [Server thread/INFO]: <Nemesis> hay lag?
+Console	: [21:54:06] [Server thread/INFO]: <Geomg> ah si aca tenes
+Console	: [21:54:08] [Server thread/INFO]: <Geomg> una mina
+Console	: [21:54:13] [Server thread/INFO]: <Geomg> yo iba a empezar
+Console	: [21:54:19] [Server thread/INFO]: <Geomg> oe bryan
+Console	: [21:54:26] [Server thread/INFO]: <Nemesis> jajajajajaj
+Console	: [21:54:31] [Server thread/INFO]: <Nemesis> que notya
+Console	: [21:54:36] [Server thread/INFO]: <Geomg> hay que llevra madera para dejar una mierda abajo
+Console	: [21:54:39] [Server thread/INFO]: <Geomg> aca ando ya no xD
+Console	: [21:54:41] [Server thread/INFO]: <Geomg> vamo el hierrito
+Console	: [21:54:44] [Server thread/INFO]: <Nemesis> tiene plugins este server?
+Console	: [21:54:44] [Server thread/INFO]: <Geomg> toma
+Console	: [21:54:48] [Server thread/INFO]: <caplaw> si
+Console	: [21:54:50] [Server thread/INFO]: <caplaw> bukkit
+Console	: [21:54:50] [Server thread/INFO]: <Geomg> agarralo
+Console	: [21:54:56] [Server thread/INFO]: <Geomg> ya llevo un kit
+Console	: [21:54:56] [Server thread/INFO]: <Nemesis> con razon
+Console	: [21:55:00] [Server thread/INFO]: <Nemesis> no puedo usar tu mesa
+Console	: [21:55:03] [Server thread/INFO]: <caplaw> hmm
+Console	: [21:55:03] [Server thread/INFO]: <Geomg> por que
+Console	: [21:55:06] [Server thread/INFO]: <caplaw> como hago :v
+Console	: [21:55:13] [Server thread/INFO]: <caplaw> voy a abrir el admin board
+Console	: [21:55:24] [Server thread/INFO]: Nemesis has just earned the achievement [Taking Inventory]
+Console	: [21:55:29] [Server thread/INFO]: <Geomg> por que no podes?
+Console	: [21:55:42] [Server thread/INFO]: <Geomg> vos hijode puta ayuda
+Console	: [21:55:43] [Server thread/INFO]: <Nemesis> no se
+Console	: [21:55:45] [Server thread/INFO]: <Geomg> que el otro no sabe xD
+Console	: [21:55:47] [Server thread/INFO]: <Nemesis> a que
+Console	: [21:55:50] [Server thread/INFO]: <Geomg> entoncs por qeu decis con razon xD
+Console	: [21:55:55] [Server thread/INFO]: <caplaw> les voy a dar privilegios
+Console	: [21:56:00] [Server thread/INFO]: [caplaw: Opped Nemesis]
+Console	: [21:56:04] [Server thread/INFO]: [caplaw: Opped Geomg]
+Console	: [21:56:06] [Server thread/INFO]: <Nemesis> hay un plugin q evita abrir cofres y uysar las cosas de los demas
+Console	: [21:56:13] [Server thread/INFO]: <caplaw> ahora si?
+Console	: [21:56:13] [Server thread/INFO]: <Nemesis> ayudarte a quye
+Console	: [21:56:27] [Server thread/INFO]: <caplaw> podes ocupar la mesa?
+Console	: [21:56:34] [Server thread/INFO]: <Geomg> si
+Console	: [21:56:38] [Server thread/INFO]: <Geomg> eso si
+Console	: [21:56:44] [Server thread/INFO]: <Geomg> ya llevo mi cofre abajo
+Console	: [21:56:48] [Server thread/INFO]: <Geomg> oe comoe r que se hacia el cofre grande?
+Console	: [21:56:52] [Server thread/INFO]: <caplaw> vamos
+Console	: [21:56:53] [Server thread/INFO]: <Geomg> ponias varios cofres?
+Console	: [21:56:56] [Server thread/INFO]: <caplaw> tengo 3 picas
+Console	: [21:56:58] [Server thread/INFO]: <Geomg> al rededor no _
+Console	: [21:56:59] [Server thread/INFO]: <Nemesis> q van a hacer
+Console	: [21:57:04] [Server thread/INFO]: <Geomg> a sacar minerales
+Console	: [21:57:12] [Server thread/INFO]: <Geomg> ponemos una caldera abajo
+Console	: [21:58:18] [Server thread/INFO]: <Nemesis> q hacemos
+Console	: [21:58:23] [Server thread/INFO]: <caplaw> minemos
+Console	: [21:58:33] [Server thread/INFO]: <caplaw> hacemos un farm luego
+Console	: [21:58:36] [Server thread/INFO]: <Geomg> OE
+Console	: [21:58:41] [Server thread/INFO]: <Nemesis> tenes redstone?
+Console	: [21:58:41] [Server thread/INFO]: <Geomg> COMO PUTA H ACES EL COFRE GRANDE
+Console	: [21:58:44] [Server thread/INFO]: <caplaw> si
+Console	: [21:58:50] [Server thread/INFO]: <Nemesis> pones 2 juntos
+Console	: [21:58:57] [Server thread/INFO]: <Nemesis> llama en skype xD
+Console	: [21:59:38] [Server thread/INFO]: <Geomg> HAY CARBON?
+Console	: [21:59:41] [Server thread/INFO]: <caplaw> si
+Console	: [21:59:47] [Server thread/INFO]: <Geomg> tamierda no sirve
+Console	: [21:59:50] [Server thread/INFO]: <Nemesis> en la altura 12 piquen
+Console	: [21:59:54] [Server thread/INFO]: <Nemesis> hacia los lados
+Console	: [22:00:01] [Server thread/INFO]: <Geomg> hay plata?
+Console	: [22:00:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [22:00:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [22:00:04] [Server thread/INFO]: Saving...
+Console	: [22:00:04] [Server thread/INFO]: Saved the world
+Console	: [22:00:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [22:00:05] [Server thread/INFO]: <Nemesis> diamante
+Console	: [22:00:05] [Server thread/INFO]: <caplaw> si
+Console	: [22:00:09] [Server thread/INFO]: <caplaw> no tengo diamante
+Console	: [22:00:45] [Server thread/INFO]: <Geomg> oe andas plata?
+Console	: [22:00:49] [Server thread/INFO]: <Geomg> para hacer pico de plata
+Console	: [22:00:55] [Server thread/INFO]: <caplaw> a plata no
+Console	: [22:00:57] [Server thread/INFO]: <Nemesis> Es hiuerro
+Console	: [22:00:57] [Server thread/INFO]: <caplaw> solo hierro
+Console	: [22:01:07] [Server thread/INFO]: <Nemesis> arriba hay lava
+Console	: [22:01:41] [Server thread/INFO]: <caplaw> oh shit
+Console	: [22:02:47] [Server thread/INFO]: <Nemesis> andan hierro?
+Console	: [22:02:50] [Server thread/INFO]: <caplaw> si
+Console	: [22:02:53] [Server thread/INFO]: <Geomg> ahorita estoy sacando
+Console	: [22:02:53] [Server thread/INFO]: <Nemesis> dame 3
+Console	: [22:02:53] [Server thread/INFO]: <caplaw> tengo como 64
+Console	: [22:02:57] [Server thread/INFO]: <caplaw> estan arriba
+Console	: [22:03:00] [Server thread/INFO]: <caplaw> en los cofres
+Console	: [22:03:06] [Server thread/INFO]: <Geomg> aca ando
+Console	: [22:03:07] [Server thread/INFO]: <Nemesis> hay un zombie de oro
+Console	: [22:03:14] [Server thread/INFO]: <Geomg> chupasela
+Console	: [22:03:20] [Server thread/INFO]: <caplaw> xd
+Console	: [22:03:22] [Server thread/INFO]: <Geomg> te da un lingote por cada lenguetazo
+Console	: [22:03:25] [Server thread/INFO]: <Nemesis> hahaa
+Console	: [22:03:29] [Server thread/INFO]: <caplaw> aqui ando una espada
+Console	: [22:03:31] [Server thread/INFO]: <Geomg> paul saco 5 hace poco
+Console	: [22:03:31] [Server thread/INFO]: <Nemesis> wa traer awa
+Console	: [22:03:32] [Server thread/INFO]: <caplaw> para matarlo
+Console	: [22:03:54] [Server thread/INFO]: <Geomg> oe vine a pegar a otra mina xD
+Console	: [22:04:00] [Server thread/INFO]: <caplaw> donde
+Console	: [22:04:05] [Server thread/INFO]: <Geomg> hay lava
+Console	: [22:04:28] [Server thread/INFO]: <Geomg> oe bryan como es para teleportar
+Console	: [22:04:28] [Server thread/INFO]: <caplaw> tomaste lingotes?
+Console	: [22:05:15] [Server thread/INFO]: <Geomg> redstone
+Console	: [22:05:33] [Server thread/INFO]: <caplaw> mierda
+Console	: [22:05:46] [Server thread/INFO]: <caplaw> encontramos un vacio
+Console	: [22:05:56] [Server thread/INFO]: <Nemesis> necesito una espada
+Console	: [22:06:02] [Server thread/INFO]: <caplaw> toma
+Console	: [22:06:07] [Server thread/INFO]: <caplaw> aca
+Console	: [22:06:40] [Server thread/INFO]: <Nemesis> su madre
+Console	: [22:06:42] [Server thread/INFO]: <Nemesis> casi me mata
+Console	: [22:06:45] [Server thread/INFO]: <caplaw> ah non
+Console	: [22:06:53] [Server thread/INFO]: <caplaw> no tengo mas comida
+Console	: [22:06:55] [Server thread/INFO]: <caplaw> :'v
+Console	: [22:07:06] [Server thread/INFO]: <caplaw> busca comida geovanny
+Console	: [22:07:25] [Server thread/INFO]: Geomg was slain by Nemesis
+Console	: [22:07:30] [Server thread/INFO]: <Nemesis> ajajajajaajajajajajaajaj
+Console	: [22:08:37] [Server thread/INFO]: <Geomg> loco wtf que paso
+Console	: [22:08:40] [Server thread/INFO]: <Geomg> que t epasa hdpta
+Console	: [22:08:48] [Server thread/INFO]: <caplaw> anda consegui comida
+Console	: [22:08:52] [Server thread/INFO]: <caplaw> nos morimos de hambree
+Console	: [22:08:54] [Server thread/INFO]: <Nemesis> enconrtre diamante
+Console	: [22:09:47] [Server thread/INFO]: <Nemesis> mira
+Console	: [22:09:48] [Server thread/INFO]: <Nemesis> mira
+Console	: [22:09:53] [Server thread/INFO]: <caplaw> deavergaa
+Console	: [22:09:56] [Server thread/INFO]: <caplaw> cuantas habian
+Console	: [22:09:58] [Server thread/INFO]: <Nemesis> 5
+Console	: [22:10:02] [Server thread/INFO]: <caplaw> noice
+Console	: [22:10:03] [Server thread/INFO]: <Geomg> como se teleporta
+Console	: [22:10:10] [Server thread/INFO]: <caplaw> dejame checar
+Console	: [22:10:11] [Server thread/INFO]: <caplaw> ya te digo
+Console	: [22:10:13] [Server thread/INFO]: <Nemesis> pleca tp
+Console	: [22:10:23] [Server thread/INFO]: [Geomg: Teleported Geomg to Nemesis]
+Console	: [22:10:40] [Server thread/INFO]: <Geomg> loco donde puta fue que me mataste
+Console	: [22:10:44] [Server thread/INFO]: <Nemesis> allaaaaaaaaaaaaaaaaaa
+Console	: [22:10:46] [Server thread/INFO]: <Nemesis> atras
+Console	: [22:10:53] [Server thread/INFO]: <Geomg> lleame que ahi estan mis cosas
+Console	: [22:10:54] [Server thread/INFO]: <Nemesis> no me pegues q me matas ando a medio corazon
+Console	: [22:10:55] [Server thread/INFO]: <caplaw> toma
+Console	: [22:10:56] [Server thread/INFO]: <caplaw> oe
+Console	: [22:11:17] [Server thread/INFO]: <Geomg> ideay
+Console	: [22:11:19] [Server thread/INFO]: <caplaw> que nemesis te de una pica
+Console	: [22:11:21] [Server thread/INFO]: <caplaw> la agarro
+Console	: [22:11:22] [Server thread/INFO]: <Geomg> loco me enturca que me maten
+Console	: [22:11:25] [Server thread/INFO]: <Geomg> juelaciemputa
+Console	: [22:11:33] [Server thread/INFO]: <Geomg> anda dejame donde estaba
+Console	: [22:11:39] [Server thread/INFO]: <caplaw> veni
+Console	: [22:12:27] [Server thread/INFO]: <caplaw> alli era?
+Console	: [22:12:43] [Server thread/INFO]: <caplaw> si alli es
+Console	: [22:12:43] [Server thread/INFO]: <Geomg> simon
+Console	: [22:12:46] [Server thread/INFO]: <Geomg> y mis cosas?
+Console	: [22:12:54] [Server thread/INFO]: <caplaw> las tomo nemesis
+Console	: [22:12:57] [Server thread/INFO]: <Geomg> hdpta
+Console	: [22:12:59] [Server thread/INFO]: <Nemesis> vos las agarraste maje
+Console	: [22:13:05] [Server thread/INFO]: <Geomg> no ando ni madera ni ni qk
+Console	: [22:13:09] [Server thread/INFO]: <Nemesis> yo tampoco
+Console	: [22:13:15] [Server thread/INFO]: <caplaw> xd q tenias
+Console	: [22:13:17] [Server thread/INFO]: <caplaw> ?
+Console	: [22:13:25] [Server thread/INFO]: <Geomg> alla anda nemesis
+Console	: [22:13:28] [Server thread/INFO]: <Geomg> loco no te movas de ahi
+Console	: [22:13:30] [Server thread/INFO]: <Geomg> quedate quieto
+Console	: [22:13:45] [Server thread/INFO]: <Geomg> bryan no te movas
+Console	: [22:13:46] [Server thread/INFO]: <Geomg> omw
+Console	: [22:13:51] [Server thread/INFO]: <Geomg> alla esta el nombre
+Console	: [22:13:53] [Server thread/INFO]: <Geomg> lo ves?
+Console	: [22:13:56] [Server thread/INFO]: <Nemesis> se
+Console	: [22:14:09] [Server thread/INFO]: <Nemesis> voy a ir agfuera
+Console	: [22:14:12] [Server thread/INFO]: <Nemesis> necesito comer
+Console	: [22:14:15] [Server thread/INFO]: <Nemesis> me voy a morir
+Console	: [22:14:15] [Server thread/INFO]: <caplaw> igual
+Console	: [22:14:19] [Server thread/INFO]: <caplaw> consegui comida para toodoos
+Console	: [22:14:43] [Server thread/INFO]: <Geomg> no andas madera paul?
+Console	: [22:14:49] [Server thread/INFO]: <caplaw> nop
+Console	: [22:14:52] [Server thread/INFO]: <caplaw> pero en los cofre si
+Console	: [22:15:03] [Server thread/INFO]: <Geomg> anda ps
+Console	: [22:15:04] [Server thread/INFO]: <caplaw> vamos afuera
+Console	: [22:15:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [22:15:04] [Server thread/INFO]: Saving...
+Console	: [22:15:04] [Server thread/INFO]: Saved the world
+Console	: [22:15:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [22:15:05] [Server thread/INFO]: <Geomg> xD
+Console	: [22:15:18] [Server thread/INFO]: <caplaw> me muere
+Console	: [22:15:21] [Server thread/INFO]: <Nemesis> no
+Console	: [22:15:22] [Server thread/INFO]: <Nemesis> oe
+Console	: [22:15:22] [Server thread/INFO]: <caplaw> como nino africano
+Console	: [22:15:24] [Server thread/INFO]: [Geomg: Teleported Geomg to Nemesis]
+Console	: [22:15:27] [Server thread/INFO]: <Nemesis> necesitamos 3 de oxidiana
+Console	: [22:15:37] [Server thread/INFO]: <Geomg> paque
+Console	: [22:15:41] [Server thread/INFO]: <Geomg> sodrogadictvo
+Console	: [22:15:50] [Server thread/INFO]: <Nemesis> para hacer una mesa de encantamientos
+Console	: [22:15:56] [Server thread/INFO]: <Nemesis> salgan
+Console	: [22:16:00] [Server thread/INFO]: <Nemesis> para luego hacerme tp
+Console	: [22:16:20] [Server thread/INFO]: <Geomg> ahiviene un hp de los que explota
+Console	: [22:16:47] [Server thread/INFO]: <caplaw> voy a buscar comida
+Console	: [22:16:50] [Server thread/INFO]: <caplaw> pero guardo mis cosas
+Console	: [22:16:53] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Nemesis]
+Console	: [22:16:59] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [22:17:35] [Server thread/INFO]: Nemesis has just earned the achievement [Getting Wood]
+Console	: [22:17:54] [Server thread/INFO]: <caplaw> geovann
+Console	: [22:17:58] [Server thread/INFO]: <caplaw> hay cosas tuyas en ese cofre
+Console	: [22:18:00] [Server thread/INFO]: <Geomg> sup
+Console	: [22:18:30] [Server thread/INFO]: <caplaw> ok voy por comida
+Console	: [22:18:38] [Server thread/INFO]: caplaw has just earned the achievement [Monster Hunter]
+Console	: [22:19:01] [Server thread/INFO]: <Nemesis> este cofre es mio el doble
+Console	: [22:19:04] [Server thread/INFO]: <Nemesis> al lado de la cama
+Console	: [22:19:06] [Server thread/INFO]: <caplaw> ok
+Console	: [22:19:19] [Server thread/INFO]: <caplaw> el cofre con el letrero de turcas es mio
+Console	: [22:19:54] [Server thread/INFO]: <caplaw> me muero
+Console	: [22:20:00] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [22:20:05] [Server thread/INFO]: caplaw was blown up by Creeper
+Console	: [22:20:08] [Server thread/INFO]: Geomg has just earned the achievement [Time to Strike!]
+Console	: [22:20:10] [Server thread/INFO]: <Nemesis> jajajajajaajajajajaja
+Console	: [22:20:23] [Server thread/INFO]: Geomg has just earned the achievement [Time to Mine!]
+Console	: [22:20:23] [Server thread/INFO]: Geomg has just earned the achievement [Getting an Upgrade]
+Console	: [22:20:31] [Server thread/INFO]: <caplaw> xd
+Console	: [22:20:36] [Server thread/INFO]: <caplaw> consegui 4 carne de oveja
+Console	: [22:21:14] [Server thread/INFO]: <Geomg> ese es mio
+Console	: [22:21:18] [Server thread/INFO]: Nemesis was slain by caplaw
+Console	: [22:21:20] [Server thread/INFO]: <Geomg> nrn
+Console	: [22:21:21] [Server thread/INFO]: <caplaw> lol
+Console	: [22:21:27] [Server thread/INFO]: <Geomg> andabas de un toque
+Console	: [22:21:28] [Server thread/INFO]: <caplaw> te me cruzaste
+Console	: [22:21:33] [Server thread/INFO]: <caplaw> xd
+Console	: [22:21:35] [Server thread/INFO]: <Nemesis> oe mis cosas
+Console	: [22:21:52] [Server thread/INFO]: <Nemesis> puta
+Console	: [22:21:55] [Server thread/INFO]: <Nemesis> ahora tengo lag
+Console	: [22:22:39] [Server thread/INFO]: <caplaw> que hacemos
+Console	: [22:22:44] [Server thread/INFO]: <Geomg> buscar comida
+Console	: [22:22:44] [Server thread/INFO]: <Nemesis> buscar animales
+Console	: [22:22:45] [Server thread/INFO]: <Geomg> stem
+Console	: [22:22:48] [Server thread/INFO]: <Geomg> plantemos papas
+Console	: [22:22:56] [Server thread/INFO]: <Nemesis> tenes papas?
+Console	: [22:22:59] [Server thread/INFO]: <caplaw> nop
+Console	: [22:22:59] [Server thread/INFO]: <Geomg> no
+Console	: [22:23:01] [Server thread/INFO]: <Geomg> xD
+Console	: [22:23:02] [Server thread/INFO]: <Nemesis> duh
+Console	: [22:23:04] [Server thread/INFO]: <Geomg> donde encontramos papas
+Console	: [22:23:08] [Server thread/INFO]: <Nemesis> ya esta haciendose de dia
+Console	: [22:23:16] [Server thread/INFO]: <Nemesis> vamos
+Console	: [22:23:21] [Server thread/INFO]: <Geomg> vamos onde
+Console	: [22:23:28] [Server thread/INFO]: <Geomg> cuidado se nos pierde la choza
+Console	: [22:23:42] [Server thread/INFO]: <Nemesis> encontre 2 pollos
+Console	: [22:23:42] [Server thread/INFO]: <caplaw> un pato
+Console	: [22:23:43] [Server thread/INFO]: <Nemesis> no los mates
+Console	: [22:23:52] [Server thread/INFO]: <Geomg> hay que meterlos en corral
+Console	: [22:24:23] [Server thread/INFO]: <Nemesis> trea el otro
+Console	: [22:24:30] [Server thread/INFO]: Geomg has just earned the achievement [Time to Farm!]
+Console	: [22:24:30] [Server thread/INFO]: <caplaw> ok
+Console	: [22:24:36] [Server thread/INFO]: <caplaw> alli hay otro
+Console	: [22:24:39] [Server thread/INFO]: <caplaw> 2
+Console	: [22:24:45] [Server thread/INFO]: [Geomg: Teleported Geomg to caplaw]
+Console	: [22:24:46] [Server thread/INFO]: <caplaw> VENI
+Console	: [22:24:52] [Server thread/INFO]: <Geomg> aca hay dos
+Console	: [22:25:10] [Server thread/INFO]: <Geomg> neme
+Console	: [22:25:10] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [22:25:16] [Server thread/INFO]: <Nemesis> es con semillas
+Console	: [22:25:21] [Server thread/INFO]: <Geomg> un huevo xD
+Console	: [22:25:48] [Server thread/INFO]: <Geomg> donde sacmos semillas
+Console	: [22:25:49] [Server thread/INFO]: <caplaw> pato mierda
+Console	: [22:25:54] [Server thread/INFO]: <Geomg> aca esa uno
+Console	: [22:26:10] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [22:26:24] [Server thread/INFO]: <Geomg> dame otra semilla
+Console	: [22:26:39] [Server thread/INFO]: <caplaw> meti otro
+Console	: [22:27:03] [Server thread/INFO]: <Geomg> muelan
+Console	: [22:27:03] [Server thread/INFO]: <Nemesis> ya
+Console	: [22:27:08] [Server thread/INFO]: <Nemesis> hay q darles semillas
+Console	: [22:27:14] [Server thread/INFO]: <caplaw> semillas de la vida?
+Console	: [22:27:21] [Server thread/INFO]: <Nemesis> de hermitaño
+Console	: [22:27:39] [Server thread/INFO]: [Nemesis: Teleported Nemesis to caplaw]
+Console	: [22:27:57] [Server thread/INFO]: <Geomg> u la casa
+Console	: [22:27:57] [Server thread/INFO]: <Nemesis> vemganm
+Console	: [22:27:59] [Server thread/INFO]: <caplaw> creo que tengo semillas
+Console	: [22:28:04] [Server thread/INFO]: <caplaw> en el baul del segundo piso
+Console	: [22:28:26] [Server thread/INFO]: <Geomg> una mina
+Console	: [22:28:28] [Server thread/INFO]: <Geomg> oe y la casa
+Console	: [22:28:51] [Server thread/INFO]: <caplaw> ya no hay semillas
+Console	: [22:29:04] [Server thread/INFO]: <caplaw> donde estan
+Console	: [22:29:11] [Server thread/INFO]: <Geomg> busquen la casa
+Console	: [22:29:13] [Server thread/INFO]: <Geomg> yo encontre una mina
+Console	: [22:29:22] [Server thread/INFO]: [caplaw: Teleported caplaw to Geomg]
+Console	: [22:29:23] [Server thread/WARN]: Fetching addPacket for removed entity
+Console	: [22:29:40] [Server thread/INFO]: <Nemesis> vamos a la casa
+Console	: [22:29:43] [Server thread/INFO]: [Nemesis: Teleported Nemesis to caplaw]
+Console	: [22:29:45] [Server thread/INFO]: <Geomg> buscala
+Console	: [22:29:46] [Server thread/INFO]: <Geomg> xD
+Console	: [22:29:48] [Server thread/INFO]: <Geomg> n ojodas
+Console	: [22:29:58] [Server thread/INFO]: <caplaw> q mina mas la verga
+Console	: [22:29:59] [Server thread/INFO]: <caplaw> xd
+Console	: [22:30:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [22:30:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [22:30:04] [Server thread/INFO]: Saving...
+Console	: [22:30:04] [Server thread/INFO]: Saved the world
+Console	: [22:30:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [22:30:37] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [22:30:46] [Server thread/INFO]: <Geomg> caballo
+Console	: [22:31:02] [Server thread/INFO]: <Geomg> seguro es aca?
+Console	: [22:31:06] [Server thread/INFO]: <Nemesis> noo
+Console	: [22:31:20] [Server thread/INFO]: <caplaw> ya me perdi
+Console	: [22:31:21] [Server thread/INFO]: <Geomg> loco dos ovejas
+Console	: [22:31:30] [Server thread/INFO]: caplaw has just earned the achievement [Cow Tipper]
+Console	: [22:31:52] [Server thread/INFO]: <Nemesis> donde putas es la casa
+Console	: [22:32:03] [Server thread/INFO]: <Geomg> la estoy buscando
+Console	: [22:32:07] [Server thread/INFO]: <Geomg> voy a poner mas chucks
+Console	: [22:32:59] [Server thread/INFO]: <caplaw> estamos perdidoooos
+Console	: [22:32:59] [Server thread/INFO]: <Geomg> se perdio easa mierda
+Console	: [22:33:02] [Server thread/INFO]: <Geomg> no la encuentro xD
+Console	: [22:33:05] [Server thread/INFO]: <Geomg> oe mira arribad e vos xD
+Console	: [22:33:20] [Server thread/INFO]: <Geomg> son caballos
+Console	: [22:33:26] [Server thread/INFO]: <caplaw> home
+Console	: [22:33:29] [Server thread/INFO]: <caplaw> oera
+Console	: [22:33:32] [Server thread/INFO]: <Geomg> la encontraste
+Console	: [22:33:34] [Server thread/INFO]: <Geomg> ?
+Console	: [22:33:40] [Server thread/INFO]: <caplaw> no
+Console	: [22:33:49] [Server thread/INFO]: <Nemesis> yo tengo las coordenadas
+Console	: [22:33:52] [Server thread/INFO]: <Nemesis> les tome pantallazo
+Console	: [22:34:07] [Server thread/INFO]: <Nemesis> haganse tp
+Console	: [22:34:15] [Server thread/INFO]: <Geomg> ya estas ahi?
+Console	: [22:34:15] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [22:34:20] [Server thread/INFO]: <caplaw> ya
+Console	: [22:34:24] [Server thread/INFO]: <Geomg> pero yo hice una torre
+Console	: [22:34:27] [Server thread/INFO]: <Geomg> :)
+Console	: [22:34:29] [Server thread/INFO]: <Geomg> no quiero dejarla
+Console	: [22:34:31] [Server thread/INFO]: <Geomg> veni ve
+Console	: [22:35:03] [Server thread/INFO]: <Geomg> ya la encontre...creo
+Console	: [22:35:08] [Server thread/INFO]: <caplaw> xd
+Console	: [22:35:12] [Server thread/INFO]: <Geomg> veengan a ver la mierda
+Console	: [22:35:25] [Server thread/INFO]: <Nemesis> no
+Console	: [22:35:27] [Server thread/INFO]: <Geomg> no venga a ver ni mierda
+Console	: [22:35:32] [Server thread/INFO]: <Geomg> pues
+Console	: [22:35:33] [Server thread/INFO]: [caplaw: Teleported caplaw to Geomg]
+Console	: [22:35:35] [Server thread/INFO]: <Geomg> aca morire de hambre
+Console	: [22:35:47] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [22:35:59] [Server thread/INFO]: <caplaw> xd
+Console	: [22:36:00] [Server thread/INFO]: <Geomg> tp nemesis
+Console	: [22:36:03] [Server thread/INFO]: [Geomg: Teleported Geomg to Nemesis]
+Console	: [22:36:08] [Server thread/INFO]: <Nemesis> ando buscando caña de azucar
+Console	: [22:36:16] [Server thread/INFO]: <Geomg> yo habia encontrado
+Console	: [22:36:26] [Server thread/INFO]: <Geomg> y la casa?
+Console	: [22:36:32] [Server thread/INFO]: <Nemesis> saber
+Console	: [22:36:33] [Server thread/INFO]: <caplaw> la encontramos hace 5 minutos
+Console	: [22:36:55] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [22:38:09] [Server thread/INFO]: <Geomg> me muero de hambre
+Console	: [22:38:20] [Server thread/INFO]: <caplaw> artate mierda
+Console	: [22:38:21] [Server thread/INFO]: <caplaw> xd
+Console	: [22:38:32] [Server thread/INFO]: <Geomg> ahora
+Console	: [22:39:58] [Server thread/INFO]: <Nemesis> oe dame 30 de hierro
+Console	: [22:39:59] [Server thread/INFO]: <Nemesis> xD
+Console	: [22:40:15] [Server thread/INFO]: <caplaw> toma
+Console	: [22:40:33] [Server thread/INFO]: <Geomg> necesitamos hierro para hacer armadura
+Console	: [22:40:42] [Server thread/INFO]: <Nemesis> ya me dio este maje
+Console	: [22:40:50] [Server thread/INFO]: <Geomg> hay que fundirlo si
+Console	: [22:41:06] [Server thread/INFO]: <Geomg> hay que hacer un baul para meter comida y verga que podemos usar para hacer las mierdas
+Console	: [22:41:09] [Server thread/INFO]: <Geomg> aparte de las personales
+Console	: [22:41:12] [Server thread/INFO]: <caplaw> se
+Console	: [22:41:16] [Server thread/INFO]: <caplaw> organicemos
+Console	: [22:41:17] [Server thread/INFO]: <caplaw> la onda
+Console	: [22:41:20] [Server thread/INFO]: <Geomg> usemos ese que esta al lado
+Console	: [22:41:23] [Server thread/INFO]: <Geomg> yo lo puse
+Console	: [22:41:48] [Server thread/INFO]: <caplaw> metamos baules aca
+Console	: [22:41:54] [Server thread/INFO]: <Geomg> no se puede abrir caballo
+Console	: [22:42:21] [Server thread/INFO]: <Geomg> quien puso ese baul con comida?
+Console	: [22:42:54] [Server thread/INFO]: <Nemesis> este server donde esta hosteado
+Console	: [22:43:00] [Server thread/INFO]: <Geomg> miami
+Console	: [22:43:11] [Server thread/INFO]: <caplaw> en nueva york eta
+Console	: [22:43:17] [Server thread/WARN]: Geomg moved wrongly!
+Console	: [22:43:21] [Server thread/INFO]: <caplaw> pongamole rotulo
+Console	: [22:43:41] [Server thread/INFO]: <caplaw> alli metamos bloques
+Console	: [22:43:46] [Server thread/INFO]: <caplaw> y mierdas que nos sirvan a todos
+Console	: [22:43:48] [Server thread/INFO]: <Geomg> donde
+Console	: [22:43:52] [Server thread/INFO]: <caplaw> en los baules de abajo
+Console	: [22:44:01] [Server thread/INFO]: <Nemesis> pongan antorcha
+Console	: [22:44:06] [Server thread/INFO]: <Nemesis> les va a spawnear un creeper
+Console	: [22:44:12] [Server thread/INFO]: <caplaw> cual baul es de comida
+Console	: [22:44:27] [Server thread/INFO]: <Geomg> el que tenga primero comida xD
+Console	: [22:44:30] [Server thread/INFO]: <caplaw> xd
+Console	: [22:44:33] [Server thread/INFO]: <Geomg> oe busquemos como hacer plantillos
+Console	: [22:44:35] [Server thread/INFO]: <Nemesis> puta
+Console	: [22:44:39] [Server thread/INFO]: <Nemesis> falta 1 de oxidiana
+Console	: [22:44:40] [Server thread/INFO]: <Geomg> que
+Console	: [22:44:45] [Server thread/INFO]: <Geomg> donde se encuentra
+Console	: [22:44:51] [Server thread/INFO]: <Nemesis> en la lava
+Console	: [22:45:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [22:45:04] [Server thread/INFO]: Saving...
+Console	: [22:45:04] [Server thread/INFO]: Saved the world
+Console	: [22:45:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [22:45:31] [Server thread/WARN]: caplaw moved wrongly!
+Console	: [22:45:37] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [22:46:00] [Server thread/INFO]: <Geomg> hdtpa
+Console	: [22:46:24] [Server thread/INFO]: <Nemesis> agarra
+Console	: [22:46:46] [Server thread/INFO]: <Nemesis> te tire zapatos y casco
+Console	: [22:47:02] [Server thread/INFO]: <Geomg> donde
+Console	: [22:47:10] [Server thread/INFO]: <Nemesis> a cap
+Console	: [22:47:19] [Server thread/INFO]: <Geomg> no me des ni verga pues
+Console	: [22:47:44] [Server thread/INFO]: <caplaw> solo hace falta los zapatos
+Console	: [22:47:54] [Server thread/INFO]: <Geomg> coom e hacen los zapatos
+Console	: [22:47:59] [Server thread/INFO]: <Geomg> quejesaverga
+Console	: [22:48:05] [Server thread/INFO]: <Nemesis> es la mesa
+Console	: [22:48:07] [Server thread/INFO]: <Geomg> quequejesaverga
+Console	: [22:48:11] [Server thread/INFO]: <Nemesis> la vamos a poner arriba
+Console	: [22:48:24] [Server thread/INFO]: <Geomg> en la chota
+Console	: [22:48:34] [Server thread/INFO]: [caplaw: Teleported caplaw to Geomg]
+Console	: [22:49:15] [Server thread/INFO]: <caplaw> hacemos una granja automatica?
+Console	: [22:49:24] [Server thread/INFO]: <Geomg> no
+Console	: [22:49:28] [Server thread/INFO]: <caplaw> xd
+Console	: [22:49:30] [Server thread/INFO]: <caplaw> :[
+Console	: [22:49:30] [Server thread/INFO]: <Nemesis> seee
+Console	: [22:49:33] [Server thread/INFO]: <Geomg> no
+Console	: [22:49:35] [Server thread/INFO]: <Nemesis> pero necesitamos cachimbo de semillas
+Console	: [22:49:42] [Server thread/INFO]: <caplaw> recolectemos
+Console	: [22:49:45] [Server thread/INFO]: <Geomg> una gallina
+Console	: [22:49:49] [Server thread/INFO]: <Geomg> anda
+Console	: [22:49:50] [Server thread/INFO]: <Nemesis> matala
+Console	: [22:49:53] [Server thread/INFO]: <Geomg> vayan a recolecta
+Console	: [22:49:56] [Server thread/INFO]: <Nemesis> hacela en sopa
+Console	: [22:50:06] [Server thread/INFO]: <Geomg> yo estare en mi habitacion comiendome la carne que acabo de sacar del horno
+Console	: [22:50:42] [Server thread/INFO]: <Geomg> oe como se hacen los zapatos
+Console	: [22:51:09] [Server thread/INFO]: <Nemesis> un cofre?
+Console	: [22:51:35] [Server thread/INFO]: <Geomg> loz zapatos!
+Console	: [22:51:36] [Server thread/INFO]: <Geomg> asfasd
+Console	: [22:52:35] [Server thread/INFO]: <caplaw> voy haciendo los campos de cultivos
+Console	: [22:52:50] [Server thread/INFO]: <Nemesis> loco
+Console	: [22:52:53] [Server thread/INFO]: <Nemesis> dame redstone
+Console	: [22:53:18] [Server thread/INFO]: <caplaw> el campo de cultivo lo hago en la parte de atras de la casa
+Console	: [22:53:32] [Server thread/INFO]: <Geomg> im on it
+Console	: [22:54:06] [Server thread/INFO]: <Nemesis> loco yo lo voy a hacer
+Console	: [22:54:15] [Server thread/INFO]: <Geomg> oda verga vas a hacer vos hdpta
+Console	: [22:54:32] [Server thread/INFO]: <Geomg> maldito jornalero
+Console	: [22:54:39] [Server thread/INFO]: <Nemesis> aqui enfrente mejor
+Console	: [22:54:43] [Server thread/INFO]: <Nemesis> ya esta plano
+Console	: [22:54:57] [Server thread/INFO]: <Nemesis> consigan antorcha
+Console	: [22:56:04] [Server thread/INFO]: <Nemesis> wtf
+Console	: [22:56:06] [Server thread/INFO]: <Geomg> xD
+Console	: [22:56:07] [Server thread/INFO]: <Nemesis> se serio
+Console	: [22:56:10] [Server thread/INFO]: <Geomg> yiyiiy
+Console	: [22:56:11] [Server thread/INFO]: <Nemesis> si esa es la pasada
+Console	: [22:56:14] [Server thread/INFO]: <Geomg> xD
+Console	: [22:56:16] [Server thread/INFO]: <Geomg> sabia lo dirias
+Console	: [22:56:58] [Server thread/INFO]: <Geomg> solo con esa mierdita de agua_
+Console	: [22:57:00] [Server thread/INFO]: <Geomg> ?
+Console	: [22:58:08] [Server thread/INFO]: Geomg has just earned the achievement [Monster Hunter]
+Console	: [22:58:47] [Server thread/INFO]: <Geomg> un elder
+Console	: [22:58:57] [Server thread/INFO]: <Geomg> cuidado hdtpa
+Console	: [22:59:07] [Server thread/INFO]: <Geomg> loco
+Console	: [22:59:14] [Server thread/INFO]: <Geomg> wachaou
+Console	: [22:59:20] [Server thread/INFO]: <Geomg> tu madre
+Console	: [22:59:22] [Server thread/INFO]: <Nemesis> no hace nada
+Console	: [22:59:25] [Server thread/INFO]: <Nemesis> si no lo quedas viendo
+Console	: [22:59:33] [Server thread/INFO]: <Geomg> pero no puedo no queadrlo viendo
+Console	: [22:59:37] [Server thread/INFO]: <Geomg> es tentativo
+Console	: [23:00:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:00:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:00:04] [Server thread/INFO]: Saving...
+Console	: [23:00:04] [Server thread/INFO]: Saved the world
+Console	: [23:00:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:00:20] [Server thread/INFO]: <caplaw> los campos de arroz estan listo
+Console	: [23:00:47] [Server thread/INFO]: [caplaw: Teleported caplaw to Geomg]
+Console	: [23:01:37] [Server thread/INFO]: <caplaw> marica
+Console	: [23:01:41] [Server thread/INFO]: <Geomg> me da miedo asdfsdf
+Console	: [23:01:56] [Server thread/INFO]: <caplaw> alli hay otro ender cochon
+Console	: [23:01:58] [Server thread/INFO]: <Nemesis> necesitamos pistones
+Console	: [23:02:01] [Server thread/INFO]: <caplaw> cuidado lo miras puto transvesti
+Console	: [23:02:07] [Server thread/INFO]: <Geomg> alla anda
+Console	: [23:02:11] [Server thread/INFO]: <Geomg> no puedo no hacelo lo siento
+Console	: [23:02:15] [Server thread/INFO]: <Geomg> es tan tentativo
+Console	: [23:02:20] [Server thread/INFO]: <caplaw> andan un turcazo de esos
+Console	: [23:02:40] [Server thread/INFO]: <Geomg> oe tire la gema esa que dan
+Console	: [23:02:44] [Server thread/INFO]: <Geomg> pero no salio ni qk
+Console	: [23:02:56] [Server thread/INFO]: <Geomg> loco hagamos una montaña rusa Ñ0
+Console	: [23:02:58] [Server thread/INFO]: <Geomg> :0
+Console	: [23:03:00] [Server thread/INFO]: <caplaw> hice unas tierras atras
+Console	: [23:03:07] [Server thread/INFO]: <caplaw> de cultivo
+Console	: [23:04:01] [Server thread/INFO]: <Nemesis> juelacienputa
+Console	: [23:04:04] [Server thread/INFO]: <Geomg> que
+Console	: [23:04:12] [Server thread/INFO]: <Geomg> moderaesastapas
+Console	: [23:04:28] [Server thread/INFO]: <Geomg> o te las modero a punta de turkaz
+Console	: [23:04:47] [Server thread/INFO]: <Geomg> que es eso
+Console	: [23:04:53] [Server thread/INFO]: <Nemesis> pistones
+Console	: [23:04:56] [Server thread/INFO]: <Geomg> :0
+Console	: [23:05:12] [Server thread/INFO]: <Nemesis> anda busca semillas
+Console	: [23:05:13] [Server thread/INFO]: <Geomg> y las semillas donde las encuentro
+Console	: [23:05:26] [Server thread/INFO]: <Nemesis> en la grama
+Console	: [23:05:32] [Server thread/INFO]: <Geomg> que hago
+Console	: [23:05:54] [Server thread/INFO]: <Geomg> que hago hdpta
+Console	: [23:06:12] [Server thread/INFO]: [caplaw: Teleported caplaw to Geomg]
+Console	: [23:06:58] [Server thread/INFO]: <Nemesis> como se hacen los repetidores
+Console	: [23:07:09] [Server thread/INFO]: <Geomg> dale riplei
+Console	: [23:07:30] [Server thread/INFO]: <Geomg> paul veni ve
+Console	: [23:07:34] [Server thread/INFO]: [caplaw: Teleported caplaw to Geomg]
+Console	: [23:07:40] [Server thread/INFO]: <Geomg> mira xD
+Console	: [23:07:43] [Server thread/INFO]: <caplaw> xd
+Console	: [23:07:43] [Server thread/INFO]: <Geomg> eso lo hice yo xD
+Console	: [23:07:49] [Server thread/INFO]: <Geomg> que boñeto
+Console	: [23:07:52] [Server thread/INFO]: <caplaw> va a quedar para la posteridad
+Console	: [23:09:40] [Server thread/INFO]: [caplaw: Teleported caplaw to Geomg]
+Console	: [23:09:54] [Server thread/INFO]: <Nemesis> puta
+Console	: [23:09:57] [Server thread/INFO]: <Nemesis> hay q cocinar piedra
+Console	: [23:10:45] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [23:11:07] [Server thread/INFO]: <Nemesis> funciona
+Console	: [23:11:07] [Server thread/INFO]: <Nemesis> :d
+Console	: [23:11:25] [Server thread/INFO]: <Geomg> no en todos si
+Console	: [23:11:36] [Server thread/INFO]: <Nemesis> es q esta con antorchas ahorita
+Console	: [23:11:52] [Server thread/INFO]: <Geomg> como lo activas
+Console	: [23:12:06] [Server thread/INFO]: <Nemesis> con los repiters, solo pones una palanca
+Console	: [23:12:11] [Server thread/INFO]: <Nemesis> y se activan
+Console	: [23:12:21] [Server thread/INFO]: <Nemesis> baja el agua y empuja todos los cultivos
+Console	: [23:15:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:15:04] [Server thread/INFO]: Saving...
+Console	: [23:15:04] [Server thread/INFO]: Saved the world
+Console	: [23:15:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:15:31] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [23:17:29] [Server thread/INFO]: <Geomg> que tas haciendo hdpta
+Console	: [23:17:36] [Server thread/INFO]: <Nemesis> experimentando
+Console	: [23:17:43] [Server thread/INFO]: <Geomg> vos so bruto si
+Console	: [23:17:48] [Server thread/INFO]: <Geomg> loco viste lo de la mierda del vodka?
+Console	: [23:17:55] [Server thread/INFO]: <Nemesis> se ve buenot
+Console	: [23:17:58] [Server thread/INFO]: <Nemesis> cuanto vale
+Console	: [23:18:00] [Server thread/INFO]: <Geomg> 500
+Console	: [23:18:24] [Server thread/INFO]: <Nemesis> ta caro
+Console	: [23:18:51] [Server thread/INFO]: <Geomg> cuanto valdra solo el vodka?
+Console	: [23:19:04] [Server thread/INFO]: <Nemesis> 320
+Console	: [23:19:06] [Server thread/INFO]: <Nemesis> 350
+Console	: [23:19:16] [Server thread/INFO]: <Geomg> taloco
+Console	: [23:19:48] [Server thread/INFO]: <Geomg> otro
+Console	: [23:20:43] [Server thread/INFO]: <Geomg> xD
+Console	: [23:20:59] [Server thread/INFO]: <Nemesis> xq no se activan
+Console	: [23:21:06] [Server thread/INFO]: <Geomg> por que no sos ingeienro
+Console	: [23:21:29] [Server thread/INFO]: <Geomg> y el switch
+Console	: [23:22:48] [Server thread/INFO]: <Geomg> no
+Console	: [23:23:15] [Server thread/INFO]: <Geomg> xD
+Console	: [23:23:19] [Server thread/INFO]: <caplaw> .l
+Console	: [23:23:27] [Server thread/INFO]: <Nemesis> tengo ganas de ir a mi mapa a ver
+Console	: [23:23:28] [Server thread/INFO]: <Nemesis> como es
+Console	: [23:23:29] [Server thread/INFO]: <Nemesis> es
+Console	: [23:23:29] [Server thread/INFO]: <Geomg> ya tenemos un trampolin
+Console	: [23:23:31] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [23:23:31] [Server thread/INFO]: Nemesis left the game
+Console	: [23:24:34] [Server thread/INFO]: <Geomg> oe
+Console	: [23:24:45] [Server thread/INFO]: <Geomg> oe
+Console	: [23:24:45] [Server thread/INFO]: <caplaw> q ibgi
+Console	: [23:24:46] [Server thread/INFO]: <Geomg> oe
+Console	: [23:24:46] [Server thread/INFO]: <caplaw> ongo
+Console	: [23:24:48] [Server thread/INFO]: <Geomg> oe
+Console	: [23:24:50] [Server thread/INFO]: <Geomg> veni
+Console	: [23:25:41] [Server thread/INFO]: <Geomg> no se como bajarme xD
+Console	: [23:25:47] [Server thread/INFO]: <caplaw> xdd
+Console	: [23:26:28] [Server thread/INFO]: Nemesis[/186.77.223.190:27347] logged in with entity id 47294 at (-725.5846534204676, 62.0, 468.69999998807896)
+Console	: [23:26:28] [Server thread/INFO]: Nemesis joined the game
+Console	: [23:26:28] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [23:26:28] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [23:26:35] [Server thread/INFO]: <Nemesis> q hongo
+Console	: [23:26:38] [Server thread/INFO]: <Geomg> loco como me salgo del bote
+Console	: [23:26:40] [Server thread/INFO]: <caplaw> q hongo
+Console	: [23:26:57] [Server thread/INFO]: <Geomg> sdfsdfads
+Console	: [23:28:17] [Server thread/INFO]: <Geomg> loco
+Console	: [23:28:18] [Server thread/INFO]: <Geomg> asdfsad
+Console	: [23:28:23] [Server thread/INFO]: [Geomg: Teleported Geomg to Nemesis]
+Console	: [23:28:24] [Server thread/INFO]: <caplaw> te mato?
+Console	: [23:28:35] [Server thread/INFO]: <Geomg> no
+Console	: [23:28:40] [Server thread/INFO]: <Geomg> oe vni agarralo vamolobote
+Console	: [23:28:42] [Server thread/INFO]: <Nemesis> oe
+Console	: [23:28:47] [Server thread/INFO]: <Nemesis> has ido al infierno?
+Console	: [23:28:56] [Server thread/INFO]: <Geomg> si
+Console	: [23:29:03] [Server thread/INFO]: <Nemesis> a este mae le pregnto
+Console	: [23:29:14] [Server thread/INFO]: <caplaw> una vez
+Console	: [23:29:18] [Server thread/INFO]: <caplaw> y no fue divertido
+Console	: [23:29:19] [Server thread/INFO]: <Geomg> oe veni paul
+Console	: [23:29:20] [Server thread/INFO]: <Nemesis> donde esta el portan
+Console	: [23:29:21] [Server thread/INFO]: <Geomg> montate
+Console	: [23:29:27] [Server thread/INFO]: [caplaw: Teleported caplaw to Geomg]
+Console	: [23:29:27] [Server thread/INFO]: <Geomg> el oprtal lo haces
+Console	: [23:29:32] [Server thread/INFO]: <Geomg> ahi esta el otro
+Console	: [23:29:47] [Server thread/INFO]: <Nemesis> necesito un pedazo de cuarzo
+Console	: [23:29:55] [Server thread/INFO]: <Geomg> se me jodio
+Console	: [23:29:58] [Server thread/INFO]: <caplaw> a este rio le llamare
+Console	: [23:30:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:30:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:30:04] [Server thread/INFO]: Saving...
+Console	: [23:30:04] [Server thread/INFO]: Saved the world
+Console	: [23:30:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:30:06] [Server thread/INFO]: <caplaw> el rio de agua
+Console	: [23:30:31] [Server thread/INFO]: <Nemesis> sacate un pedazo de cuarzo del creativo
+Console	: [23:30:40] [Server thread/INFO]: <Geomg> como te bajaste
+Console	: [23:30:47] [Server thread/INFO]: <caplaw> rompiendo el bote
+Console	: [23:31:00] [Server thread/INFO]: <Nemesis> con shif
+Console	: [23:32:01] [Server thread/INFO]: <Nemesis> toca f1
+Console	: [23:32:18] [Server thread/INFO]: <Geomg> para que
+Console	: [23:32:27] [Server thread/INFO]: <Nemesis> oe paw conseguime un pedazo de cuarzo del creativo
+Console	: [23:32:40] [Server thread/INFO]: <caplaw> dejame ver como hago
+Console	: [23:33:06] [Server thread/INFO]: <Geomg> loco encontre vacas
+Console	: [23:33:11] [Server thread/INFO]: <Geomg> ovejas
+Console	: [23:33:13] [Server thread/INFO]: <Geomg> chanchos
+Console	: [23:33:13] [Server thread/INFO]: <Nemesis> traete la carne
+Console	: [23:33:19] [Server thread/INFO]: <Geomg> un turcazo de vacas
+Console	: [23:33:37] [Server thread/INFO]: Geomg has just earned the achievement [Cow Tipper]
+Console	: [23:34:00] [Server thread/INFO]: <Nemesis> ayer pase todo el dia jugando urbanterror XD
+Console	: [23:35:51] [Server thread/INFO]: <Nemesis> wtf
+Console	: [23:36:33] [Server thread/INFO]: <Nemesis> loco sacate un cuarzo del creativo para temrinar esto
+Console	: [23:36:41] [Server thread/INFO]: <caplaw> estoy viendo el bukkit
+Console	: [23:36:43] [Server thread/INFO]: <Nemesis> o hacemos el portal?
+Console	: [23:37:49] [Server thread/INFO]: [caplaw: Given [Nether Quartz] * 1 to Nemesis]
+Console	: [23:37:53] [Server thread/INFO]: <Nemesis> thanks
+Console	: [23:38:03] [Server thread/INFO]: <Nemesis> xD
+Console	: [23:38:04] [Server thread/INFO]: <Geomg> wtf
+Console	: [23:40:27] [Server thread/INFO]: <Geomg> xD
+Console	: [23:40:40] [Server thread/INFO]: <Nemesis> alguiien agarro la lever
+Console	: [23:41:04] [Server thread/INFO]: <Nemesis> busca la palanca
+Console	: [23:41:12] [Server thread/INFO]: <Geomg> let it go
+Console	: [23:42:20] [Server thread/INFO]: <caplaw> el puente esta listo
+Console	: [23:42:55] [Server thread/WARN]: Nemesis moved wrongly!
+Console	: [23:44:14] [Server thread/INFO]: <Geomg> oe tenia un huevo con un pollo xD
+Console	: [23:44:20] [Server thread/INFO]: <Geomg> mira
+Console	: [23:44:20] [Server thread/INFO]: <Nemesis> lol
+Console	: [23:44:39] [Server thread/INFO]: [caplaw: Teleported caplaw to Geomg]
+Console	: [23:45:03] [Server thread/INFO]: <caplaw> construi algo
+Console	: [23:45:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:45:04] [Server thread/INFO]: Saving...
+Console	: [23:45:04] [Server thread/INFO]: Saved the world
+Console	: [23:45:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:45:06] [Server thread/INFO]: <caplaw> mierda
+Console	: [23:45:17] [Server thread/INFO]: <Geomg> que te pao
+Console	: [23:46:27] [Server thread/INFO]: <Nemesis> voy a reinciar
+Console	: [23:46:35] [Server thread/INFO]: <Nemesis> se me esta pegando la porra
+Console	: [23:46:38] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [23:46:38] [Server thread/INFO]: Nemesis left the game
+Console	: [23:47:38] [Server thread/INFO]: <Geomg> el puente esta listo dice xD
+Console	: [23:48:11] [Server thread/INFO]: <caplaw> tengo lag
+Console	: [23:48:17] [Server thread/INFO]: <Geomg> y yo sueño xD
+Console	: [23:48:29] [Server thread/INFO]: <caplaw> xd awevo
+Console	: [23:48:32] [Server thread/INFO]: <caplaw> asi lo dejo por hoy
+Console	: [23:48:35] [Server thread/INFO]: <caplaw> voy a descansar
+Console	: [23:48:41] [Server thread/INFO]: <Geomg> igual mañana dia pesado sdfasd
+Console	: [23:48:42] [Server thread/INFO]: <caplaw> el server alli siempre esta online
+Console	: [23:48:43] [Server thread/INFO]: <Geomg> nites loco
+Console	: [23:48:46] [Server thread/INFO]: <caplaw> dale
+Console	: [23:48:48] [Server thread/INFO]: <Geomg> dale chele
+Console	: [23:48:49] [Server thread/INFO]: Geomg lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [23:48:49] [Server thread/INFO]: Geomg left the game
+Console	: [23:48:59] [Server thread/INFO]: caplaw lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [23:48:59] [Server thread/INFO]: caplaw left the game
+Console	: [23:49:00] [Server thread/INFO]: Nemesis[/186.77.223.190:27395] logged in with entity id 53118 at (-725.9898796559667, 65.0, 471.75662129938684)
+Console	: [23:49:00] [Server thread/INFO]: Nemesis joined the game
+Console	: [23:49:00] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [23:49:00] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [23:49:15] [Server thread/INFO]: <Nemesis> se jueron?
+Console	: [23:53:25] [Server thread/INFO]: [Server] se
+Console	: [23:53:30] [Server thread/INFO]: [Server] se me lagueo :v
+Console	: [23:59:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:59:04] [Server thread/INFO]: Nemesis
+Console	: [00:00:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [00:00:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:00:04] [Server thread/INFO]: Saving...
+Console	: [00:00:04] [Server thread/INFO]: Saved the world
+Console	: [00:00:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:06:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:06:04] [Server thread/INFO]: Nemesis
+Console	: [00:07:28] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [00:07:28] [Server thread/INFO]: Nemesis left the game
+Console	: [00:12:04] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [00:12:04] [Server thread/INFO]: Saving is already turned on.
+Console	: [00:12:04] [Server thread/INFO]: Saving...
+Console	: [00:12:04] [Server thread/INFO]: Saved the world
+Console	: [00:12:04] [Server thread/INFO]: Stopping the server
+Console	: [00:12:05] [Server thread/INFO]: Stopping server
+Console	: [00:12:05] [Server thread/INFO]: Saving players
+Console	: [00:12:05] [Server thread/INFO]: Saving worlds
+Console	: [00:12:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [00:12:05] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [00:12:05] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [02:29:04] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [02:29:04] [Server thread/INFO]: Loading properties
+Console	: [02:29:04] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [02:29:04] [Server thread/INFO]: Generating keypair
+Console	: [02:29:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [02:29:04] [Server thread/INFO]: Using epoll channel type
+Console	: [02:29:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [02:29:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [02:29:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [02:29:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [02:29:04] [Server thread/INFO]: Preparing level "world"
+Console	: [02:29:04] [Server thread/INFO]: Preparing start region for level 0
+Console	: [02:29:05] [Server thread/INFO]: Preparing spawn area: 39%
+Console	: [02:29:06] [Server thread/INFO]: Done (2.034s)! For help, type "help" or "?"
+Console	: [02:29:07] [Server thread/INFO]: Nemesis[/186.77.223.190:27406] logged in with entity id 437 at (-738.823430392372, 66.0, 470.26615013965386)
+Console	: [02:29:07] [Server thread/INFO]: Nemesis joined the game
+Console	: [02:29:07] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [02:29:07] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [02:30:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [02:30:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [02:30:04] [Server thread/INFO]: Saving...
+Console	: [02:30:04] [Server thread/INFO]: Saved the world
+Console	: [02:30:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [02:36:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [02:36:04] [Server thread/INFO]: Nemesis
+Console	: [02:42:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [02:42:04] [Server thread/INFO]: Nemesis
+Console	: [02:45:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [02:45:04] [Server thread/INFO]: Saving...
+Console	: [02:45:04] [Server thread/INFO]: Saved the world
+Console	: [02:45:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [02:51:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [02:51:04] [Server thread/INFO]: Nemesis
+Console	: [02:51:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7014ms behind, skipping 140 tick(s)
+Console	: [02:57:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [02:57:04] [Server thread/INFO]: Nemesis
+Console	: [03:00:04] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [03:00:04] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [03:00:04] [Server thread/INFO]: Saving...
+Console	: [03:00:04] [Server thread/INFO]: Saved the world
+Console	: [03:00:04] [Server thread/INFO]: [Server] Save Complete
+Console	: [03:06:04] [Server thread/INFO]: There are 1/5 players online:
+Console	: [03:06:04] [Server thread/INFO]: Nemesis
+Console	: [03:10:05] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [03:10:05] [Server thread/INFO]: Nemesis left the game
+Console	: [03:15:04] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [03:15:04] [Server thread/INFO]: Saving is already turned on.
+Console	: [03:15:04] [Server thread/INFO]: Saving...
+Console	: [03:15:05] [Server thread/INFO]: Saved the world
+Console	: [03:15:05] [Server thread/INFO]: Stopping the server
+Console	: [03:15:05] [Server thread/INFO]: Stopping server
+Console	: [03:15:05] [Server thread/INFO]: Saving players
+Console	: [03:15:05] [Server thread/INFO]: Saving worlds
+Console	: [03:15:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [03:15:05] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [03:15:05] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Console	: [03:15:05] [Server Shutdown Thread/INFO]: Stopping server
+Console	: [03:15:05] [Server Shutdown Thread/INFO]: Saving players
+Console	: [03:15:05] [Server Shutdown Thread/INFO]: Saving worlds
+Console	: [03:15:05] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [20:22:30] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [20:22:30] [Server thread/INFO]: Loading properties
+Console	: [20:22:30] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [20:22:30] [Server thread/INFO]: Generating keypair
+Console	: [20:22:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [20:22:31] [Server thread/INFO]: Using epoll channel type
+Console	: [20:22:31] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [20:22:31] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [20:22:31] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [20:22:31] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [20:22:31] [Server thread/INFO]: Preparing level "world"
+Console	: [20:22:31] [Server thread/INFO]: Preparing start region for level 0
+Console	: [20:22:32] [Server thread/INFO]: Preparing spawn area: 11%
+Console	: [20:22:33] [Server thread/INFO]: Preparing spawn area: 52%
+Console	: [20:22:34] [Server thread/INFO]: Done (3.157s)! For help, type "help" or "?"
+Console	: [20:22:34] [Server thread/INFO]: Nemesis[/186.77.223.190:27398] logged in with entity id 375 at (-90.57543030241148, 53.0, -29.31298382517027)
+Console	: [20:22:34] [Server thread/INFO]: Nemesis joined the game
+Console	: [20:22:35] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [20:22:35] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [20:28:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:28:05] [Server thread/INFO]: Nemesis
+Console	: [20:30:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [20:30:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [20:30:05] [Server thread/INFO]: Saving...
+Console	: [20:30:05] [Server thread/INFO]: Saved the world
+Console	: [20:30:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [20:36:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:36:05] [Server thread/INFO]: Nemesis
+Console	: [20:42:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:42:05] [Server thread/INFO]: Nemesis
+Console	: [20:45:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [20:45:05] [Server thread/INFO]: Saving...
+Console	: [20:45:05] [Server thread/INFO]: Saved the world
+Console	: [20:45:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [20:51:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:51:05] [Server thread/INFO]: Nemesis
+Console	: [20:57:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [20:57:05] [Server thread/INFO]: Nemesis
+Console	: [21:00:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [21:00:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [21:00:05] [Server thread/INFO]: Saving...
+Console	: [21:00:05] [Server thread/INFO]: Saved the world
+Console	: [21:00:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [21:06:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [21:06:05] [Server thread/INFO]: Nemesis
+Console	: [21:12:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [21:12:05] [Server thread/INFO]: Nemesis
+Console	: [21:15:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [21:15:05] [Server thread/INFO]: Saving...
+Console	: [21:15:05] [Server thread/INFO]: Saved the world
+Console	: [21:15:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [21:21:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [21:21:05] [Server thread/INFO]: Nemesis
+Console	: [21:27:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [21:27:05] [Server thread/INFO]: Nemesis
+Console	: [21:30:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [21:30:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [21:30:05] [Server thread/INFO]: Saving...
+Console	: [21:30:05] [Server thread/INFO]: Saved the world
+Console	: [21:30:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [21:36:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [21:36:05] [Server thread/INFO]: Nemesis
+Console	: [21:39:21] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [21:39:21] [Server thread/INFO]: Nemesis left the game
+Console	: [21:44:05] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [21:44:05] [Server thread/INFO]: Saving is already turned on.
+Console	: [21:44:05] [Server thread/INFO]: Saving...
+Console	: [21:44:05] [Server thread/INFO]: Saved the world
+Console	: [21:44:05] [Server thread/INFO]: Stopping the server
+Console	: [21:44:05] [Server thread/INFO]: Stopping server
+Console	: [21:44:05] [Server thread/INFO]: Saving players
+Console	: [21:44:05] [Server thread/INFO]: Saving worlds
+Console	: [21:44:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [21:44:05] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [21:44:05] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Console	: [21:44:06] [Server Shutdown Thread/INFO]: Stopping server
+Console	: 2015-07-28 21:44:06,018 ERROR Attempted to append to non-started appender File
+Console	: Exception in thread "Server Shutdown Thread" org.apache.logging.log4j.core.appender.AppenderLoggingException: Attempted to append to non-started appender ServerGuiConsole
+Console	: 2015-07-28 21:44:06,026 ERROR Unable to write to stream logs/latest.log for appender File
+Console	: 	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:89)
+Console	: 2015-07-28 21:44:06,028 ERROR An exception occurred processing Appender File org.apache.logging.log4j.core.appender.AppenderLoggingException: Error writing to RandomAccessFile logs/latest.log
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:425)
+Console	: 	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:109)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:406)
+Console	: 	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.write(RollingRandomAccessFileManager.java:90)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:367)
+Console	: 	at org.apache.logging.log4j.core.appender.OutputStreamManager.write(OutputStreamManager.java:129)
+Console	: 	at org.apache.logging.log4j.core.Logger.log(Logger.java:110)
+Console	: 	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:113)
+Console	: 	at org.apache.logging.log4j.spi.AbstractLogger.info(AbstractLogger.java:1011)
+Console	: 	at org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:96)
+Console	: 	at net.minecraft.server.MinecraftServer.t(SourceFile:376)
+Console	: 	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:99)
+Console	: 	at net.minecraft.server.MinecraftServer$2.run(SourceFile:715)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:425)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:406)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:367)
+Console	: 	at org.apache.logging.log4j.core.Logger.log(Logger.java:110)
+Console	: 	at org.apache.logging.log4j.spi.AbstractLogger.info(AbstractLogger.java:1011)
+Console	: 	at net.minecraft.server.MinecraftServer.t(SourceFile:376)
+Console	: 	at net.minecraft.server.MinecraftServer$2.run(SourceFile:715)
+Console	: Caused by: java.io.IOException: Stream Closed
+Console	: 	at java.io.RandomAccessFile.writeBytes(Native Method)
+Console	: 	at java.io.RandomAccessFile.write(RandomAccessFile.java:525)
+Console	: 	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:106)
+Console	: 	... 12 more
+Console	: 2015-07-28 21:44:06,032 ERROR Attempted to append to non-started appender ServerGuiConsole
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [21:49:08] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [21:49:08] [Server thread/INFO]: Loading properties
+Console	: [21:49:08] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [21:49:08] [Server thread/INFO]: Generating keypair
+Console	: [21:49:08] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [21:49:08] [Server thread/INFO]: Using epoll channel type
+Console	: [21:49:08] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [21:49:08] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [21:49:08] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [21:49:08] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [21:49:08] [Server thread/INFO]: Preparing level "world"
+Console	: [21:49:09] [Server thread/INFO]: Preparing start region for level 0
+Console	: [21:49:10] [Server thread/INFO]: Preparing spawn area: 27%
+Console	: [21:49:11] [Server thread/INFO]: Preparing spawn area: 87%
+Console	: [21:49:11] [Server thread/INFO]: Done (2.447s)! For help, type "help" or "?"
+Console	: [21:49:11] [Server thread/INFO]: Nemesis[/186.77.223.190:27423] logged in with entity id 371 at (-695.0449558035607, 69.0, 518.6390254664215)
+Console	: [21:49:11] [Server thread/INFO]: Nemesis joined the game
+Console	: [21:49:11] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [21:49:11] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [21:55:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [21:55:05] [Server thread/INFO]: Nemesis
+Console	: [22:00:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [22:00:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [22:00:05] [Server thread/INFO]: Saving...
+Console	: [22:00:05] [Server thread/INFO]: Saved the world
+Console	: [22:00:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [22:06:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [22:06:05] [Server thread/INFO]: Nemesis
+Console	: [22:07:51] [Server thread/INFO]: caplaw[/190.181.150.186:30050] logged in with entity id 4643 at (-745.4459658263473, 63.0, 481.30000001192093)
+Console	: [22:07:51] [Server thread/INFO]: caplaw joined the game
+Console	: [22:07:51] [Server thread/INFO]: [Server] Welcome back, caplaw
+Console	: [22:07:51] [Server thread/INFO]: You whisper to caplaw: Que hongo
+Console	: [22:08:00] [Server thread/INFO]: <caplaw> q onda
+Console	: [22:08:08] [Server thread/INFO]: <Nemesis> que onda loco
+Console	: [22:08:16] [Server thread/INFO]: <caplaw> q hace xd
+Console	: [22:08:20] [Server thread/INFO]: <Nemesis> la casita
+Console	: [22:08:29] [Server thread/INFO]: <caplaw> xd ta bueno
+Console	: [22:08:31] [Server thread/INFO]: <caplaw> voy a ver que hago
+Console	: [22:09:08] [Server thread/INFO]: <Nemesis> vieras el cachimbo de tierra que quite
+Console	: [22:09:09] [Server thread/INFO]: <Nemesis> xD
+Console	: [22:09:23] [Server thread/INFO]: <caplaw> awevo, si alli habia un montesito
+Console	: [22:09:28] [Server thread/INFO]: <caplaw> ahorita necesito cobbleston
+Console	: [22:09:36] [Server thread/INFO]: <Nemesis> ya termine la mesa
+Console	: [22:09:54] [Server thread/INFO]: <Nemesis> las librerias
+Console	: [22:09:59] [Server thread/INFO]: <caplaw> asi vi :v
+Console	: [22:10:09] [Server thread/INFO]: <caplaw> e hiciste la puerta al infierno
+Console	: [22:10:12] [Server thread/INFO]: <caplaw> cerca de la casa hp
+Console	: [22:10:13] [Server thread/INFO]: <caplaw> xd
+Console	: [22:10:23] [Server thread/INFO]: <Nemesis> xD
+Console	: [22:10:26] [Server thread/INFO]: <Nemesis> no pasa nada si
+Console	: [22:10:31] [Server thread/INFO]: <Nemesis> por tenerla cerca
+Console	: [22:10:38] [Server thread/INFO]: <caplaw> da miedo :s
+Console	: [22:12:33] [Server thread/INFO]: <caplaw> tenes comida?
+Console	: [22:12:49] [Server thread/INFO]: <Nemesis> ahi te las tyire
+Console	: [22:13:03] [Server thread/INFO]: <Nemesis> mmira esa espada
+Console	: [22:13:05] [Server thread/INFO]: <caplaw> onde
+Console	: [22:13:09] [Server thread/INFO]: <caplaw> ah ya
+Console	: [22:13:10] [Server thread/INFO]: <caplaw> nvm
+Console	: [22:13:11] [Server thread/INFO]: <Nemesis> ya las tenes en tu inventario
+Console	: [22:13:12] [Server thread/INFO]: <caplaw> gracias
+Console	: [22:13:16] [Server thread/INFO]: <Nemesis> mira la espada en este cofre
+Console	: [22:13:23] [Server thread/INFO]: <Nemesis> aca
+Console	: [22:14:37] [Server thread/INFO]: <caplaw> encontre un pasadiso
+Console	: [22:14:40] [Server thread/INFO]: <caplaw> en las minas
+Console	: [22:14:48] [Server thread/INFO]: <Nemesis> pasadiso a donde
+Console	: [22:14:54] [Server thread/INFO]: <caplaw> un tunel de viaje abajo
+Console	: [22:14:58] [Server thread/INFO]: <caplaw> haber que encuentro
+Console	: [22:15:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [22:15:05] [Server thread/INFO]: Saving...
+Console	: [22:15:05] [Server thread/INFO]: Saved the world
+Console	: [22:15:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [22:16:23] [Server thread/INFO]: <Nemesis> no hay nada
+Console	: [22:16:31] [Server thread/INFO]: <caplaw> se
+Console	: [22:16:33] [Server thread/INFO]: <caplaw> :[
+Console	: [22:16:57] [Server thread/INFO]: <caplaw> si conseguis cobblestone guardalo en mi cofre
+Console	: [22:17:15] [Server thread/INFO]: <Nemesis> ok
+Console	: [22:17:22] [Server thread/INFO]: <Nemesis> oe estas cabando bajo mi casa xD
+Console	: [22:17:30] [Server thread/INFO]: <caplaw> :v
+Console	: [22:17:32] [Server thread/INFO]: <Nemesis> cuando construya ahi voy a rellenar
+Console	: [22:21:25] [Server thread/INFO]: <Nemesis> consegui patatas
+Console	: [22:21:27] [Server thread/INFO]: <Nemesis> y zanahoras
+Console	: [22:21:29] [Server thread/INFO]: <Nemesis> rias
+Console	: [22:24:22] [Server thread/INFO]: <caplaw> dale voy a intentar conseguirlos
+Console	: [22:24:29] [Server thread/INFO]: <caplaw> solo saco cobblestone
+Console	: [22:24:33] [Server thread/INFO]: <Nemesis> te digo ya la consegui
+Console	: [22:24:37] [Server thread/INFO]: <Nemesis> estan plantadas
+Console	: [22:24:43] [Server thread/INFO]: <caplaw> excelente
+Console	: [22:29:08] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [22:29:14] [Server thread/INFO]: <Nemesis> lol
+Console	: [22:29:21] [Server thread/INFO]: <caplaw> xd
+Console	: [22:30:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [22:30:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [22:30:05] [Server thread/INFO]: Saving...
+Console	: [22:30:05] [Server thread/INFO]: Saved the world
+Console	: [22:30:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [22:32:07] [Server thread/INFO]: <Nemesis> loco
+Console	: [22:32:09] [Server thread/INFO]: <Nemesis> veni a la granja
+Console	: [22:32:13] [Server thread/INFO]: <Nemesis> ya esta para cosecharla
+Console	: [22:32:22] [Server thread/INFO]: <caplaw> dale
+Console	: [22:32:39] [Server thread/INFO]: <caplaw> deaverga
+Console	: [22:32:45] [Server thread/INFO]: <caplaw> la cosecha ha terminado
+Console	: [22:32:47] [Server thread/INFO]: <Nemesis> se quedan algunas
+Console	: [22:33:46] [Server thread/INFO]: <Nemesis> planta solo las papas
+Console	: [22:33:59] [Server thread/INFO]: <caplaw> dale
+Console	: [22:34:08] [Server thread/INFO]: <Nemesis> son las q mas comida dan
+Console	: [22:40:05] [Server thread/INFO]: There are 2/5 players online:
+Console	: [22:40:05] [Server thread/INFO]: Nemesis, caplaw
+Console	: [22:41:44] [Server thread/INFO]: <Nemesis> q es
+Console	: [22:41:52] [Server thread/INFO]: <caplaw> no se xd
+Console	: [22:41:57] [Server thread/INFO]: <Nemesis> hahahaaha
+Console	: [22:42:59] [Server thread/INFO]: <Nemesis> loco donde dejaste la cosecha
+Console	: [22:43:10] [Server thread/INFO]: <caplaw> casi 3/4 los volvi a plantar
+Console	: [22:43:13] [Server thread/INFO]: <caplaw> yo ando el resto
+Console	: [22:43:28] [Server thread/INFO]: <Nemesis> hace pan
+Console	: [22:44:35] [Server thread/INFO]: <caplaw> dame un chance
+Console	: [22:45:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [22:45:05] [Server thread/INFO]: Saving...
+Console	: [22:45:05] [Server thread/INFO]: Saved the world
+Console	: [22:45:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [22:51:05] [Server thread/INFO]: There are 2/5 players online:
+Console	: [22:51:05] [Server thread/INFO]: Nemesis, caplaw
+Console	: [22:52:01] [Server thread/INFO]: <Nemesis> encontre diamante
+Console	: [22:53:28] [Server thread/INFO]: <caplaw> excelente
+Console	: [22:57:45] [Server thread/INFO]: <Nemesis> encontre una mina abandonada :O
+Console	: [22:57:49] [Server thread/INFO]: <caplaw> ahhh
+Console	: [22:57:53] [Server thread/INFO]: <caplaw> voy aver
+Console	: [22:57:55] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [22:57:56] [Server thread/INFO]: <Nemesis> suave
+Console	: [22:58:02] [Server thread/INFO]: <Nemesis> loco ahora como salimos
+Console	: [22:58:02] [Server thread/INFO]: <caplaw> noice
+Console	: [22:58:04] [Server thread/INFO]: <Nemesis> jajajajaajajajajaaj
+Console	: [22:58:05] [Server thread/INFO]: <caplaw> ah
+Console	: [22:58:06] [Server thread/INFO]: <caplaw> no e
+Console	: [22:58:08] [Server thread/INFO]: <caplaw> xd
+Console	: [22:58:14] [Server thread/INFO]: <Nemesis> exploremosla
+Console	: [22:58:19] [Server thread/INFO]: <caplaw> minemos y buscamos como jalarnos
+Console	: [22:58:56] [Server thread/INFO]: <caplaw> cuidado
+Console	: [22:59:06] [Server thread/INFO]: <Nemesis> diamante
+Console	: [22:59:47] [Server thread/INFO]: <Nemesis> loco
+Console	: [22:59:47] [Server thread/INFO]: <Nemesis> mira
+Console	: [22:59:55] [Server thread/INFO]: <Nemesis> si encontramos un spaw de arañas no lo piques
+Console	: [22:59:57] [Server thread/INFO]: <Nemesis> no lo mates
+Console	: [22:59:57] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [23:00:03] [Server thread/INFO]: <Nemesis> creo q hay uno cerca
+Console	: [23:00:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:00:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:00:05] [Server thread/INFO]: Saving...
+Console	: [23:00:05] [Server thread/INFO]: Saved the world
+Console	: [23:00:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:00:52] [Server thread/INFO]: <caplaw> veni
+Console	: [23:01:06] [Server thread/INFO]: <Nemesis> donde
+Console	: [23:01:09] [Server thread/INFO]: <caplaw> un zombie
+Console	: [23:01:12] [Server thread/INFO]: <caplaw> encantado
+Console	: [23:01:28] [Server thread/INFO]: <Nemesis> donde
+Console	: [23:01:38] [Server thread/INFO]: <caplaw> donde estoy io
+Console	: [23:01:40] [Server thread/INFO]: <caplaw> tpea
+Console	: [23:02:04] [Server thread/INFO]: <Nemesis> encontre un spaw
+Console	: [23:02:38] [Server thread/INFO]: [Nemesis: Teleported Nemesis to caplaw]
+Console	: [23:02:56] [Server thread/INFO]: <caplaw> busquemos la salida
+Console	: [23:04:10] [Server thread/INFO]: [Nemesis: Teleported Nemesis to caplaw]
+Console	: [23:04:26] [Server thread/INFO]: <caplaw> la salida
+Console	: [23:04:27] [Server thread/INFO]: <Nemesis> ese es el spaw
+Console	: [23:04:28] [Server thread/INFO]: <caplaw> :'v
+Console	: [23:06:38] [Server thread/INFO]: <Nemesis> ahi te vas recto
+Console	: [23:06:42] [Server thread/INFO]: <caplaw> deaverga
+Console	: [23:06:45] [Server thread/INFO]: <Nemesis> y te vcas acordar
+Console	: [23:12:05] [Server thread/INFO]: There are 2/5 players online:
+Console	: [23:12:05] [Server thread/INFO]: Nemesis, caplaw
+Console	: [23:12:07] [Server thread/INFO]: Nemesis has just earned the achievement [Benchmarking]
+Console	: [23:14:16] [Server thread/INFO]: <caplaw> ya avance bastante en el puente
+Console	: [23:15:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:15:05] [Server thread/INFO]: Saving...
+Console	: [23:15:05] [Server thread/INFO]: Saved the world
+Console	: [23:15:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:15:12] [Server thread/INFO]: <Nemesis> encontre el spaw
+Console	: [23:15:22] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [23:15:44] [Server thread/INFO]: <Nemesis> me asustaste
+Console	: [23:15:47] [Server thread/INFO]: <caplaw> xd
+Console	: [23:15:54] [Server thread/INFO]: <Nemesis> baja
+Console	: [23:16:02] [Server thread/INFO]: <Nemesis> casi me matan
+Console	: [23:16:07] [Server thread/INFO]: <Nemesis> te envenenan
+Console	: [23:16:58] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [23:18:28] [Server thread/INFO]: <Nemesis> casi me matan
+Console	: [23:18:33] [Server thread/INFO]: <caplaw> otra vez
+Console	: [23:22:24] [Server thread/INFO]: <Nemesis> no lo piques
+Console	: [23:22:50] [Server thread/INFO]: <Nemesis> vamos hacer una granja de experiencia con ese
+Console	: [23:24:43] [Server thread/INFO]: <Nemesis> mierda no ando antorchas
+Console	: [23:26:21] [Server thread/INFO]: <Nemesis> puta
+Console	: [23:26:22] [Server thread/INFO]: <Nemesis> la salida
+Console	: [23:26:54] [Server thread/INFO]: <caplaw> aca
+Console	: [23:28:35] [Server thread/INFO]: <Nemesis> esta es la sanja
+Console	: [23:28:39] [Server thread/INFO]: <Nemesis> q habiampos encont5rado
+Console	: [23:28:43] [Server thread/INFO]: <caplaw> awevo
+Console	: [23:30:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:30:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:30:05] [Server thread/INFO]: Saving...
+Console	: [23:30:05] [Server thread/INFO]: Saved the world
+Console	: [23:30:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:30:11] [Server thread/INFO]: [caplaw: Teleported caplaw to Nemesis]
+Console	: [23:36:05] [Server thread/INFO]: There are 2/5 players online:
+Console	: [23:36:05] [Server thread/INFO]: Nemesis, caplaw
+Console	: [23:40:54] [Server thread/INFO]: <caplaw> voy a descansar, buenas noches xd
+Console	: [23:40:58] [Server thread/INFO]: <Nemesis> dale loco
+Console	: [23:41:00] [Server thread/INFO]: <Nemesis> naits
+Console	: [23:41:04] [Server thread/INFO]: caplaw lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [23:41:04] [Server thread/INFO]: caplaw left the game
+Console	: [23:41:44] [Server thread/INFO]: Nemesis has just earned the achievement [Time to Mine!]
+Console	: [23:41:44] [Server thread/INFO]: Nemesis has just earned the achievement [Getting an Upgrade]
+Console	: [23:45:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:45:05] [Server thread/INFO]: Saving...
+Console	: [23:45:05] [Server thread/INFO]: Saved the world
+Console	: [23:45:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:51:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:51:05] [Server thread/INFO]: Nemesis
+Console	: [23:57:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:57:05] [Server thread/INFO]: Nemesis
+Console	: [00:00:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [00:00:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:00:05] [Server thread/INFO]: Saving...
+Console	: [00:00:05] [Server thread/INFO]: Saved the world
+Console	: [00:00:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:06:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:06:05] [Server thread/INFO]: Nemesis
+Console	: [00:12:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:12:05] [Server thread/INFO]: Nemesis
+Console	: [00:15:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:15:05] [Server thread/INFO]: Saving...
+Console	: [00:15:05] [Server thread/INFO]: Saved the world
+Console	: [00:15:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:17:44] [Server thread/WARN]: Nemesis moved wrongly!
+Console	: [00:18:53] [Server thread/INFO]: Nemesis has just earned the achievement [Hot Topic]
+Console	: [00:24:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:24:05] [Server thread/INFO]: Nemesis
+Console	: [00:30:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [00:30:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:30:05] [Server thread/INFO]: Nemesis
+Console	: [00:30:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:30:05] [Server thread/INFO]: Saving...
+Console	: [00:30:05] [Server thread/INFO]: Saved the world
+Console	: [00:30:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:36:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:36:05] [Server thread/INFO]: Nemesis
+Console	: [00:37:06] [Server thread/INFO]: Geomg[/190.212.11.252:49483] logged in with entity id 83653 at (-736.1533864997054, 65.0, 481.57095474642784)
+Console	: [00:37:06] [Server thread/INFO]: Geomg joined the game
+Console	: [00:37:06] [Server thread/INFO]: [Server] Welcome back, Geomg
+Console	: [00:37:06] [Server thread/INFO]: You whisper to Geomg: Que hongo
+Console	: [00:37:17] [Server thread/INFO]: <Geomg> zup
+Console	: [00:37:18] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [00:37:22] [Server thread/INFO]: <Nemesis> thanks
+Console	: [00:37:31] [Server thread/INFO]: <Geomg> twtf
+Console	: [00:37:49] [Server thread/INFO]: <Nemesis> esta raro este puente
+Console	: [00:38:03] [Server thread/INFO]: <Geomg> vos hiciste esa base?
+Console	: [00:38:07] [Server thread/INFO]: <Geomg> esto
+Console	: [00:38:12] [Server thread/INFO]: <Nemesis> q cosa
+Console	: [00:38:17] [Server thread/INFO]: <Nemesis> el puente lo hiso paw
+Console	: [00:38:18] [Server thread/INFO]: <Geomg> vos lo hiciste
+Console	: [00:38:19] [Server thread/INFO]: <Geomg> si
+Console	: [00:38:21] [Server thread/INFO]: <Geomg> pero esta otra mierda
+Console	: [00:38:26] [Server thread/INFO]: <Nemesis> no
+Console	: [00:38:31] [Server thread/INFO]: <Nemesis> yo hice esta cabaña
+Console	: [00:38:31] [Server thread/INFO]: <Geomg> corto el rio
+Console	: [00:38:33] [Server thread/INFO]: <Nemesis> nada ams
+Console	: [00:38:50] [Server thread/INFO]: Nemesis has just earned the achievement [Acquire Hardware]
+Console	: [00:38:59] [Server thread/INFO]: <Geomg> puente mas mierda
+Console	: [00:39:05] [Server thread/INFO]: <Nemesis> xD
+Console	: [00:39:31] [Server thread/INFO]: <Geomg> aca
+Console	: [00:39:43] [Server thread/INFO]: <Nemesis> q
+Console	: [00:39:45] [Server thread/INFO]: <Nemesis> abajo?
+Console	: [00:39:51] [Server thread/INFO]: <Nemesis> ahi van a ir los cofres
+Console	: [00:39:52] [Server thread/INFO]: <Geomg> que vas a hacer aca
+Console	: [00:40:14] [Server thread/INFO]: <Nemesis> toma
+Console	: [00:40:35] [Server thread/INFO]: <Geomg> oe hagamos una montaña rusa xD
+Console	: [00:40:41] [Server thread/INFO]: <Geomg> dibde abdavas
+Console	: [00:41:10] [Server thread/INFO]: Nemesis lost connection: TranslatableComponent{key='disconnect.timeout', args=[], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [00:41:10] [Server thread/INFO]: Nemesis left the game
+Console	: [00:45:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:45:05] [Server thread/INFO]: Saving...
+Console	: [00:45:05] [Server thread/INFO]: Saved the world
+Console	: [00:45:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:46:06] [Server thread/INFO]: Nemesis[/186.77.223.190:27327] logged in with entity id 86165 at (-702.7178618192243, 64.0, 514.4704678378898)
+Console	: [00:46:06] [Server thread/INFO]: Nemesis joined the game
+Console	: [00:46:06] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [00:46:06] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [00:46:31] [Server thread/INFO]: <Geomg> loco donde es que miras el nivel 12
+Console	: [00:46:36] [Server thread/INFO]: <Geomg> el piso 12
+Console	: [00:46:39] [Server thread/INFO]: <Nemesis> f3
+Console	: [00:46:46] [Server thread/INFO]: <Geomg> AJA PERO CUALD E TODOS LOS VALORES
+Console	: [00:46:52] [Server thread/INFO]: <Nemesis> salta
+Console	: [00:46:56] [Server thread/INFO]: <Nemesis> y el q cambia
+Console	: [00:47:10] [Server thread/INFO]: <Geomg> cambia uno al lado del chunk y otro que dice light
+Console	: [00:47:20] [Server thread/INFO]: <Nemesis> xyz
+Console	: [00:47:24] [Server thread/INFO]: <Nemesis> el de enmedio
+Console	: [00:48:52] [Server thread/INFO]: <Geomg> por aca hay sonido de murcielago supongo voy a dar con una mina o algo
+Console	: [00:49:03] [Server thread/INFO]: <Geomg> lawl
+Console	: [00:49:04] [Server thread/INFO]: <Nemesis> seguro hay un tunel al lado
+Console	: [00:49:06] [Server thread/INFO]: <Geomg> parece ya era de ustedes
+Console	: [00:50:14] [Server thread/INFO]: <Geomg> la Y entoncs?
+Console	: [00:50:20] [Server thread/INFO]: <Nemesis> sep
+Console	: [00:50:20] [Server thread/INFO]: <Geomg> no es donde dice block o chunk
+Console	: [00:50:29] [Server thread/INFO]: <Geomg> toy en el 44 lol
+Console	: [00:50:35] [Server thread/INFO]: <Nemesis> a cual vas
+Console	: [00:50:42] [Server thread/INFO]: <Nemesis> en el 12 salen los diamantes si es l oq andas buscando
+Console	: [00:50:42] [Server thread/INFO]: <Geomg> 12
+Console	: [00:50:45] [Server thread/INFO]: <Geomg> si
+Console	: [00:51:06] [Server thread/INFO]: <Nemesis> xD
+Console	: [00:51:18] [Server thread/INFO]: <Geomg> ta rara esta onda
+Console	: [00:51:27] [Server thread/INFO]: <Nemesis> q onda
+Console	: [00:51:35] [Server thread/INFO]: <Geomg> aca donde ando
+Console	: [00:51:54] [Server thread/INFO]: <Nemesis> vieras la mina q encontramos con este mae
+Console	: [00:52:16] [Server thread/INFO]: <Geomg> lava
+Console	: [00:52:53] [Server thread/INFO]: <Geomg> que salvaje me voy a perder si xD
+Console	: [00:53:00] [Server thread/INFO]: <Nemesis> te haces tp a mi
+Console	: [00:53:35] [Server thread/INFO]: <Geomg> que violento xD
+Console	: [00:53:56] [Server thread/INFO]: <Geomg> un ender fuck me da miedo
+Console	: [00:54:04] [Server thread/INFO]: <Nemesis> si no hacen nada
+Console	: [00:54:05] [Server thread/INFO]: <Nemesis> xD
+Console	: [00:54:19] [Server thread/INFO]: <Geomg> pero su sola presencia me aterra
+Console	: [00:54:25] [Server thread/INFO]: <Geomg> los sonidos que hace
+Console	: [00:54:28] [Server thread/INFO]: <Geomg> lo tengo atras de mi y no se va
+Console	: [00:54:31] [Server thread/INFO]: <Geomg> loco tengo miedo asdfadsf
+Console	: [00:54:43] [Server thread/INFO]: <Geomg> lo matare
+Console	: [00:54:59] [Server thread/INFO]: <Nemesis> juga metro last ligth
+Console	: [00:55:09] [Server thread/INFO]: <Geomg> ese sonido cuando lo matas wtf
+Console	: [00:56:04] [Server thread/INFO]: <Nemesis> necesito de los arboles blancos
+Console	: [00:56:16] [Server thread/INFO]: <Geomg> para que
+Console	: [00:56:29] [Server thread/INFO]: <Nemesis> son los q me cuadran de este juego
+Console	: [00:57:05] [Server thread/INFO]: <Geomg> a mi los rojos
+Console	: [00:58:08] [Server thread/INFO]: <Geomg> encontre turco de hongos
+Console	: [00:58:19] [Server thread/INFO]: <Nemesis> haces sopa con eso
+Console	: [00:58:51] [Server thread/INFO]: <Geomg> unos rojos
+Console	: [00:59:17] [Server thread/INFO]: <Nemesis> si
+Console	: [00:59:30] [Server thread/INFO]: <Geomg> otro sonido
+Notice	: Checking for updates...
+Notice	: Checking for Minecraft Server updates...
+Console	: [01:00:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [01:00:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [01:00:05] [Server thread/INFO]: Saving...
+Console	: [01:00:05] [Server thread/INFO]: Saved the world
+Console	: [01:00:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [01:02:26] [Server thread/INFO]: <Nemesis> xD
+Console	: [01:02:33] [Server thread/INFO]: <Nemesis> tas enllavado
+Console	: [01:02:36] [Server thread/INFO]: <Geomg> xd
+Console	: [01:02:52] [Server thread/INFO]: <Geomg> hay lava cerca talvezencuentro
+Console	: [01:03:05] [Server thread/INFO]: <Nemesis> q nivel sos
+Console	: [01:03:14] [Server thread/INFO]: <Geomg> a mi me gusta mas andar exploarndo que construir xD
+Console	: [01:03:15] [Server thread/INFO]: <Geomg> 10
+Console	: [01:03:29] [Server thread/INFO]: <Geomg> encontre xD
+Console	: [01:03:39] [Server thread/INFO]: <Nemesis> a mi ambos xD pero pase alla abajo como 3 horas
+Console	: [01:03:51] [Server thread/INFO]: <Geomg> enllava vdd ?XD
+Console	: [01:03:56] [Server thread/INFO]: <Nemesis> anon
+Console	: [01:04:06] [Server thread/INFO]: <Nemesis> si vieras este maje se hiso tp
+Console	: [01:04:12] [Server thread/INFO]: <Nemesis> y pasamos dando vueltas como 20 mn
+Console	: [01:04:15] [Server thread/INFO]: <Nemesis> buscando la salida
+Console	: [01:04:15] [Server thread/INFO]: <Geomg> xd
+Console	: [01:04:50] [Server thread/INFO]: <Geomg> 6 encontre
+Console	: [01:04:57] [Server thread/INFO]: <Nemesis> yo tengo 20
+Console	: [01:05:05] [Server thread/INFO]: <Nemesis> ahorita no ocupo si
+Console	: [01:05:14] [Server thread/INFO]: <Geomg> en el 16 encontre
+Console	: [01:06:14] [Server thread/INFO]: <Nemesis> puta
+Console	: [01:06:17] [Server thread/INFO]: <Nemesis> que tarda esta mierda
+Console	: [01:06:23] [Server thread/INFO]: <Nemesis> en crecer los arboles
+Console	: [01:06:24] [Server thread/INFO]: <Geomg> xD
+Console	: [01:06:29] [Server thread/INFO]: <Geomg> dale hueso de esqueleto
+Console	: [01:06:31] [Server thread/INFO]: <Geomg> en polvo
+Console	: [01:06:34] [Server thread/INFO]: <Nemesis> no tengo ya
+Console	: [01:07:20] [Server thread/INFO]: <Geomg> wtf
+Console	: [01:07:23] [Server thread/INFO]: <Nemesis> q
+Console	: [01:07:24] [Server thread/INFO]: <Geomg> vine pegar a otro tunel
+Console	: [01:07:45] [Server thread/INFO]: <Geomg> jajaj de ustedes xD
+Console	: [01:10:15] [Server thread/INFO]: <Geomg> lol loco xD
+Console	: [01:10:22] [Server thread/INFO]: <Nemesis> ?
+Console	: [01:10:38] [Server thread/INFO]: <Geomg> fui a dar al tunel abajo de la casa de este maje despues de km dando vueltas xD
+Console	: [01:10:44] [Server thread/INFO]: <Nemesis> xD
+Console	: [01:14:14] [Server thread/INFO]: <Nemesis> hay q salir a explorar
+Console	: [01:14:19] [Server thread/INFO]: <Nemesis> quiero arboles blancos
+Console	: [01:15:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [01:15:05] [Server thread/INFO]: Saving...
+Console	: [01:15:05] [Server thread/INFO]: Saved the world
+Console	: [01:15:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [01:15:08] [Server thread/INFO]: <Geomg> stem
+Console	: [01:15:15] [Server thread/INFO]: <Geomg> voy arriba y te vas para que podas hacer tp
+Console	: [01:15:26] [Server thread/INFO]: <Nemesis> q vas ahacer ya te vas?
+Console	: [01:17:07] [Server thread/INFO]: <Geomg> ya me entro sueño
+Console	: [01:17:23] [Server thread/INFO]: <Nemesis> falta de monte
+Console	: [01:17:31] [Server thread/INFO]: <Geomg> hihombe
+Console	: [01:17:55] [Server thread/INFO]: <Nemesis> quedate un rato voy a traer un arbol
+Console	: [01:18:05] [Server thread/INFO]: <Geomg> dale me chat a fb cualquier cosa
+Console	: [01:23:05] [Server thread/INFO]: There are 2/5 players online:
+Console	: [01:23:05] [Server thread/INFO]: Geomg, Nemesis
+Console	: [01:23:07] [Server thread/INFO]: <Geomg> loco
+Console	: [01:23:09] [Server thread/INFO]: <Nemesis> ?
+Console	: [01:23:10] [Server thread/INFO]: <Geomg> por que hiciste el portal
+Console	: [01:23:11] [Server thread/INFO]: <Geomg> xD
+Console	: [01:23:18] [Server thread/INFO]: <Nemesis> farmear
+Console	: [01:23:20] [Server thread/INFO]: <Nemesis> cuarzo
+Console	: [01:23:23] [Server thread/INFO]: <Geomg> xD
+Console	: [01:23:28] [Server thread/INFO]: <Nemesis> y ir a buscar laf fortaleza
+Console	: [01:23:39] [Server thread/INFO]: <Geomg> la encontraste
+Console	: [01:23:43] [Server thread/INFO]: <Nemesis> no
+Console	: [01:24:06] [Server thread/INFO]: <Geomg> como la encontras
+Console	: [01:24:11] [Server thread/INFO]: <Nemesis> q cosa
+Console	: [01:24:26] [Server thread/INFO]: <Geomg> portal
+Console	: [01:24:34] [Server thread/INFO]: <Nemesis> lo haceds vos
+Console	: [01:24:44] [Server thread/INFO]: <Geomg> la fortaleza es la cosa
+Console	: [01:24:50] [Server thread/INFO]: <Nemesis> caminando
+Console	: [01:25:03] [Server thread/INFO]: <Geomg> hay un mapa o algo?
+Console	: [01:25:06] [Server thread/INFO]: <Nemesis> no
+Console	: [01:25:09] [Server thread/INFO]: <Geomg> vamo a buscarla pue
+Console	: [01:25:13] [Server thread/INFO]: <Nemesis> solo caminando y caminando
+Console	: [01:25:21] [Server thread/INFO]: <Geomg> su madre ps
+Console	: [01:25:23] [Server thread/INFO]: <Geomg> tmejor no xD
+Console	: [01:25:26] [Server thread/INFO]: <Geomg> ya tengo sueño
+Console	: [01:25:33] [Server thread/INFO]: <Nemesis> perate
+Console	: [01:25:48] [Server thread/INFO]: <Geomg> k
+Console	: [01:26:16] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [01:26:21] [Server thread/INFO]: <Nemesis> loco
+Console	: [01:26:27] [Server thread/INFO]: <Geomg> aja
+Console	: [01:26:27] [Server thread/INFO]: <Nemesis> podes creer q andaba dando vueltas en circulos
+Console	: [01:26:31] [Server thread/INFO]: <Geomg> xd
+Console	: [01:26:33] [Server thread/INFO]: <Geomg> si
+Console	: [01:26:39] [Server thread/INFO]: <Nemesis> osea nunca salia del bosque
+Console	: [01:26:44] [Server thread/INFO]: <Nemesis> y di con la torre q hiciste
+Console	: [01:26:56] [Server thread/INFO]: <Geomg> xd
+Console	: [01:27:30] [Server thread/INFO]: <Geomg> los sembras para ni qk
+Console	: [01:27:48] [Server thread/INFO]: <Nemesis> es el pispo
+Console	: [01:28:11] [Server thread/INFO]: <Nemesis> se serio
+Console	: [01:28:14] [Server thread/INFO]: <Nemesis> despues quitas esa mierda
+Console	: [01:28:23] [Server thread/INFO]: [Nemesis: Teleported Nemesis to Geomg]
+Console	: [01:28:26] [Server thread/INFO]: <Geomg> xd
+Console	: [01:28:27] [Server thread/INFO]: Geomg fell from a high place
+Console	: [01:28:34] [Server thread/INFO]: <Geomg> ...
+Console	: [01:28:37] [Server thread/INFO]: <Nemesis> lol
+Console	: [01:29:10] [Server thread/INFO]: [Geomg: Teleported Geomg to Nemesis]
+Console	: [01:29:56] [Server thread/INFO]: <Geomg> ieie
+Console	: [01:29:58] [Server thread/INFO]: <Geomg> me jalo asdfad
+Console	: [01:30:01] [Server thread/INFO]: <Geomg> no aguanto el sueño
+Console	: [01:30:02] [Server thread/INFO]: <Nemesis> dale loco
+Console	: [01:30:05] [Server thread/INFO]: <Geomg> naits pri
+Console	: [01:30:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [01:30:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [01:30:05] [Server thread/INFO]: Saving...
+Console	: [01:30:05] [Server thread/INFO]: Saved the world
+Console	: [01:30:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [01:30:07] [Server thread/INFO]: Geomg lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [01:30:07] [Server thread/INFO]: Geomg left the game
+Console	: [01:31:46] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [01:31:46] [Server thread/INFO]: Nemesis left the game
+Console	: [01:36:05] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [01:36:05] [Server thread/INFO]: Saving is already turned on.
+Console	: [01:36:05] [Server thread/INFO]: Saving...
+Console	: [01:36:05] [Server thread/INFO]: Saved the world
+Console	: [01:36:05] [Server thread/INFO]: Stopping the server
+Console	: [01:36:05] [Server thread/INFO]: Stopping server
+Console	: [01:36:05] [Server thread/INFO]: Saving players
+Console	: [01:36:05] [Server thread/INFO]: Saving worlds
+Console	: [01:36:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [01:36:05] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [01:36:05] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Console	: [01:36:05] [Server Shutdown Thread/INFO]: Stopping server
+Console	: [01:36:06] [Server Shutdown Thread/INFO]: Saving players
+Console	: [01:36:06] [Server Shutdown Thread/INFO]: Saving worlds
+Console	: [01:36:06] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [01:36:06] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [01:36:06] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [04:21:29] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [04:21:29] [Server thread/INFO]: Loading properties
+Console	: [04:21:29] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [04:21:29] [Server thread/INFO]: Generating keypair
+Console	: [04:21:29] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [04:21:29] [Server thread/INFO]: Using epoll channel type
+Console	: [04:21:29] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [04:21:29] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [04:21:29] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [04:21:29] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [04:21:29] [Server thread/INFO]: Preparing level "world"
+Console	: [04:21:30] [Server thread/INFO]: Preparing start region for level 0
+Console	: [04:21:31] [Server thread/INFO]: Preparing spawn area: 6%
+Console	: [04:21:32] [Server thread/INFO]: Preparing spawn area: 70%
+Console	: [04:21:32] [Server thread/INFO]: Done (2.626s)! For help, type "help" or "?"
+Console	: [04:21:32] [Server thread/INFO]: Nemesis[/186.77.223.190:27356] logged in with entity id 412 at (-706.9805593667033, 64.0, 531.3432231211143)
+Console	: [04:21:32] [Server thread/INFO]: Nemesis joined the game
+Console	: [04:21:32] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [04:21:32] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [04:26:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2064ms behind, skipping 41 tick(s)
+Console	: [04:30:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [04:30:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [04:30:05] [Server thread/INFO]: Saving...
+Console	: [04:30:05] [Server thread/INFO]: Saved the world
+Console	: [04:30:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [04:36:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [04:36:05] [Server thread/INFO]: Nemesis
+Console	: [04:42:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [04:42:05] [Server thread/INFO]: Nemesis
+Console	: [04:45:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [04:45:05] [Server thread/INFO]: Saving...
+Console	: [04:45:05] [Server thread/INFO]: Saved the world
+Console	: [04:45:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [04:51:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [04:51:05] [Server thread/INFO]: Nemesis
+Console	: [04:57:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [04:57:05] [Server thread/INFO]: Nemesis
+Console	: [05:00:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [05:00:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [05:00:05] [Server thread/INFO]: Saving...
+Console	: [05:00:05] [Server thread/INFO]: Saved the world
+Console	: [05:00:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [05:06:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [05:06:05] [Server thread/INFO]: Nemesis
+Console	: [05:12:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [05:12:05] [Server thread/INFO]: Nemesis
+Console	: [05:15:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [05:15:05] [Server thread/INFO]: Saving...
+Console	: [05:15:05] [Server thread/INFO]: Saved the world
+Console	: [05:15:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [05:21:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [05:21:05] [Server thread/INFO]: Nemesis
+Console	: [05:27:05] [Server thread/INFO]: There are 1/5 players online:
+Console	: [05:27:05] [Server thread/INFO]: Nemesis
+Console	: [05:30:05] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [05:30:05] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [05:30:05] [Server thread/INFO]: Saving...
+Console	: [05:30:05] [Server thread/INFO]: Saved the world
+Console	: [05:30:05] [Server thread/INFO]: [Server] Save Complete
+Console	: [05:35:41] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [05:35:41] [Server thread/INFO]: Nemesis left the game
+Console	: [05:40:05] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [05:40:05] [Server thread/INFO]: Saving is already turned on.
+Console	: [05:40:05] [Server thread/INFO]: Saving...
+Console	: [05:40:05] [Server thread/INFO]: Saved the world
+Console	: [05:40:05] [Server thread/INFO]: Stopping the server
+Console	: [05:40:05] [Server thread/INFO]: Stopping server
+Console	: [05:40:05] [Server thread/INFO]: Saving players
+Console	: [05:40:05] [Server thread/INFO]: Saving worlds
+Console	: [05:40:05] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [05:40:05] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [05:40:05] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [18:07:38] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [18:07:38] [Server thread/INFO]: Loading properties
+Console	: [18:07:38] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [18:07:38] [Server thread/INFO]: Generating keypair
+Console	: [18:07:38] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [18:07:39] [Server thread/INFO]: Using epoll channel type
+Console	: [18:07:39] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [18:07:39] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [18:07:39] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [18:07:39] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [18:07:39] [Server thread/INFO]: Preparing level "world"
+Console	: [18:07:39] [Server thread/INFO]: Preparing start region for level 0
+Console	: [18:07:40] [Server thread/INFO]: Preparing spawn area: 35%
+Console	: [18:07:42] [Server thread/INFO]: Preparing spawn area: 99%
+Console	: [18:07:42] [Server thread/INFO]: Done (2.858s)! For help, type "help" or "?"
+Console	: [18:07:42] [Server thread/INFO]: Nemesis[/186.77.168.109:27418] logged in with entity id 371 at (-687.6171925937304, 60.0, 528.9937464419829)
+Console	: [18:07:42] [Server thread/INFO]: Nemesis joined the game
+Console	: [18:07:42] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [18:07:42] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [18:07:55] [Server thread/INFO]: <Nemesis> ?
+Console	: [18:13:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [18:13:06] [Server thread/INFO]: Nemesis
+Console	: [18:15:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [18:15:06] [Server thread/INFO]: Saving...
+Console	: [18:15:06] [Server thread/INFO]: Saved the world
+Console	: [18:15:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [18:21:05] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [18:21:05] [Server thread/INFO]: Nemesis left the game
+Console	: [18:21:58] [Server thread/INFO]: Nemesis[/186.77.168.109:27433] logged in with entity id 9936 at (-124.22185867503926, 62.0, 186.30000001192093)
+Console	: [18:21:58] [Server thread/INFO]: Nemesis joined the game
+Console	: [18:21:58] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [18:21:58] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [18:27:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [18:27:06] [Server thread/INFO]: Nemesis
+Console	: [18:30:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [18:30:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [18:30:06] [Server thread/INFO]: Saving...
+Console	: [18:30:06] [Server thread/INFO]: Saved the world
+Console	: [18:30:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [18:30:32] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [18:30:32] [Server thread/INFO]: Nemesis left the game
+Console	: [18:32:44] [Server thread/INFO]: Nemesis[/186.77.168.109:27458] logged in with entity id 11992 at (304.9426144672011, 58.0, 47.46640481555858)
+Console	: [18:32:44] [Server thread/INFO]: Nemesis joined the game
+Console	: [18:32:44] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [18:32:44] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [18:38:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [18:38:06] [Server thread/INFO]: Nemesis
+Console	: [18:42:30] [Server thread/INFO]: Nemesis was slain by Skeleton
+Console	: [18:45:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [18:45:06] [Server thread/INFO]: Saving...
+Console	: [18:45:06] [Server thread/INFO]: Saved the world
+Console	: [18:45:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [18:45:08] [Server thread/INFO]: Nemesis has just earned the achievement [Time to Strike!]
+Console	: [18:51:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [18:51:06] [Server thread/INFO]: Nemesis
+Console	: [18:52:04] [Server thread/INFO]: Nemesis fell from a high place
+Console	: [18:57:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [18:57:06] [Server thread/INFO]: Nemesis
+Console	: [19:00:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [19:00:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [19:00:06] [Server thread/INFO]: Saving...
+Console	: [19:00:06] [Server thread/INFO]: Saved the world
+Console	: [19:00:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [19:01:55] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [19:01:55] [Server thread/INFO]: Nemesis left the game
+Console	: [19:06:06] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [19:06:06] [Server thread/INFO]: Saving is already turned on.
+Console	: [19:06:06] [Server thread/INFO]: Saving...
+Console	: [19:06:06] [Server thread/INFO]: Saved the world
+Console	: [19:06:06] [Server thread/INFO]: Stopping the server
+Console	: [19:06:06] [Server thread/INFO]: Stopping server
+Console	: [19:06:06] [Server thread/INFO]: Saving players
+Console	: [19:06:06] [Server thread/INFO]: Saving worlds
+Console	: [19:06:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [19:06:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [19:06:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [22:48:48] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [22:48:48] [Server thread/INFO]: Loading properties
+Console	: [22:48:49] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [22:48:49] [Server thread/INFO]: Generating keypair
+Console	: [22:48:49] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [22:48:49] [Server thread/INFO]: Using epoll channel type
+Console	: [22:48:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [22:48:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [22:48:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [22:48:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [22:48:49] [Server thread/INFO]: Preparing level "world"
+Console	: [22:48:49] [Server thread/INFO]: Preparing start region for level 0
+Console	: [22:48:50] [Server thread/INFO]: Preparing spawn area: 36%
+Console	: [22:48:51] [Server thread/INFO]: Done (1.707s)! For help, type "help" or "?"
+Console	: [22:48:51] [Server thread/INFO]: Nemesis[/186.77.168.109:27352] logged in with entity id 366 at (-270.11663192563435, 35.0, 621.1288344432976)
+Console	: [22:48:51] [Server thread/INFO]: Nemesis joined the game
+Console	: [22:48:51] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [22:48:51] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [22:51:20] [Server thread/INFO]: Nemesis fell from a high place
+Console	: [22:56:55] [Server thread/INFO]: Nemesis has just earned the achievement [Monster Hunter]
+Console	: [23:00:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:00:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:00:06] [Server thread/INFO]: Saving...
+Console	: [23:00:06] [Server thread/INFO]: Saved the world
+Console	: [23:00:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:06:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:06:06] [Server thread/INFO]: Nemesis
+Console	: [23:06:17] [Server thread/INFO]: Nemesis has just earned the achievement [Cow Tipper]
+Console	: [23:06:46] [Server thread/INFO]: Nemesis fell from a high place
+Console	: [23:12:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:12:06] [Server thread/INFO]: Nemesis
+Console	: [23:15:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:15:06] [Server thread/INFO]: Saving...
+Console	: [23:15:06] [Server thread/INFO]: Saved the world
+Console	: [23:15:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:21:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:21:06] [Server thread/INFO]: Nemesis
+Console	: [23:27:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:27:06] [Server thread/INFO]: Nemesis
+Console	: [23:30:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:30:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:30:06] [Server thread/INFO]: Saving...
+Console	: [23:30:06] [Server thread/INFO]: Saved the world
+Console	: [23:30:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:36:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:36:06] [Server thread/INFO]: Nemesis
+Console	: [23:39:34] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [23:39:34] [Server thread/INFO]: Nemesis left the game
+Console	: [23:44:06] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [23:44:06] [Server thread/INFO]: Saving is already turned on.
+Console	: [23:44:06] [Server thread/INFO]: Saving...
+Console	: [23:44:06] [Server thread/INFO]: Saved the world
+Console	: [23:44:06] [Server thread/INFO]: Stopping the server
+Console	: [23:44:06] [Server thread/INFO]: Stopping server
+Console	: [23:44:06] [Server thread/INFO]: Saving players
+Console	: [23:44:06] [Server thread/INFO]: Saving worlds
+Console	: [23:44:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [23:44:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [23:44:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [00:12:47] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [00:12:47] [Server thread/INFO]: Loading properties
+Console	: [00:12:47] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [00:12:47] [Server thread/INFO]: Generating keypair
+Console	: [00:12:47] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [00:12:47] [Server thread/INFO]: Using epoll channel type
+Console	: [00:12:47] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [00:12:47] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [00:12:47] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [00:12:47] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [00:12:47] [Server thread/INFO]: Preparing level "world"
+Console	: [00:12:47] [Server thread/INFO]: Preparing start region for level 0
+Console	: [00:12:48] [Server thread/INFO]: Preparing spawn area: 40%
+Console	: [00:12:49] [Server thread/INFO]: Done (2.066s)! For help, type "help" or "?"
+Console	: [00:12:50] [Server thread/INFO]: Nemesis[/186.77.168.109:27355] logged in with entity id 366 at (-707.838720007343, 64.0, 526.9935395229206)
+Console	: [00:12:50] [Server thread/INFO]: Nemesis joined the game
+Console	: [00:12:50] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [00:12:50] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [00:15:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:15:06] [Server thread/INFO]: Saving...
+Console	: [00:15:06] [Server thread/INFO]: Saved the world
+Console	: [00:15:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:21:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:21:06] [Server thread/INFO]: Nemesis
+Console	: [00:27:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:27:06] [Server thread/INFO]: Nemesis
+Console	: [00:30:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [00:30:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:30:06] [Server thread/INFO]: Saving...
+Console	: [00:30:06] [Server thread/INFO]: Saved the world
+Console	: [00:30:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:36:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:36:06] [Server thread/INFO]: Nemesis
+Console	: [00:42:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:42:06] [Server thread/INFO]: Nemesis
+Console	: [00:43:40] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [00:43:40] [Server thread/INFO]: Nemesis left the game
+Console	: [00:45:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:45:06] [Server thread/INFO]: Saving...
+Console	: [00:45:06] [Server thread/INFO]: Saved the world
+Console	: [00:45:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:48:06] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [00:48:06] [Server thread/INFO]: Saving is already turned on.
+Console	: [00:48:06] [Server thread/INFO]: Saving...
+Console	: [00:48:06] [Server thread/INFO]: Saved the world
+Console	: [00:48:06] [Server thread/INFO]: Stopping the server
+Console	: [00:48:06] [Server thread/INFO]: Stopping server
+Console	: [00:48:06] [Server thread/INFO]: Saving players
+Console	: [00:48:06] [Server thread/INFO]: Saving worlds
+Console	: [00:48:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [00:48:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [00:48:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [05:59:04] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [05:59:04] [Server thread/INFO]: Loading properties
+Console	: [05:59:04] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [05:59:04] [Server thread/INFO]: Generating keypair
+Console	: [05:59:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [05:59:04] [Server thread/INFO]: Using epoll channel type
+Console	: [05:59:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [05:59:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [05:59:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [05:59:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [05:59:05] [Server thread/INFO]: Preparing level "world"
+Console	: [05:59:05] [Server thread/INFO]: Preparing start region for level 0
+Console	: [05:59:06] [Server thread/INFO]: Preparing spawn area: 42%
+Console	: [05:59:07] [Server thread/INFO]: Done (2.148s)! For help, type "help" or "?"
+Console	: [05:59:20] [Server thread/INFO]: Nemesis[/186.77.168.109:27344] logged in with entity id 319 at (-683.691332234488, 61.0, 533.6999999880791)
+Console	: [05:59:20] [Server thread/INFO]: Nemesis joined the game
+Console	: [05:59:20] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [05:59:20] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [06:00:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [06:00:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [06:00:06] [Server thread/INFO]: Saving...
+Console	: [06:00:06] [Server thread/INFO]: Saved the world
+Console	: [06:00:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [06:06:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:06:06] [Server thread/INFO]: Nemesis
+Console	: [06:12:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:12:06] [Server thread/INFO]: Nemesis
+Console	: [06:15:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [06:15:06] [Server thread/INFO]: Saving...
+Console	: [06:15:06] [Server thread/INFO]: Saved the world
+Console	: [06:15:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [06:21:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:21:06] [Server thread/INFO]: Nemesis
+Console	: [06:27:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:27:06] [Server thread/INFO]: Nemesis
+Console	: [06:30:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [06:30:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [06:30:06] [Server thread/INFO]: Saving...
+Console	: [06:30:06] [Server thread/INFO]: Saved the world
+Console	: [06:30:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [06:36:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:36:06] [Server thread/INFO]: Nemesis
+Console	: [06:42:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:42:06] [Server thread/INFO]: Nemesis
+Console	: [06:45:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [06:45:06] [Server thread/INFO]: Saving...
+Console	: [06:45:06] [Server thread/INFO]: Saved the world
+Console	: [06:45:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [06:51:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:51:06] [Server thread/INFO]: Nemesis
+Console	: [06:54:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2138ms behind, skipping 42 tick(s)
+Console	: [07:00:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [07:00:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:00:06] [Server thread/INFO]: Nemesis
+Console	: [07:00:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [07:00:06] [Server thread/INFO]: Saving...
+Console	: [07:00:06] [Server thread/INFO]: Saved the world
+Console	: [07:00:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [07:06:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:06:06] [Server thread/INFO]: Nemesis
+Console	: [07:12:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:12:06] [Server thread/INFO]: Nemesis
+Console	: [07:15:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [07:15:06] [Server thread/INFO]: Saving...
+Console	: [07:15:06] [Server thread/INFO]: Saved the world
+Console	: [07:15:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [07:21:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:21:06] [Server thread/INFO]: Nemesis
+Console	: [07:27:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:27:06] [Server thread/INFO]: Nemesis
+Console	: [07:30:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [07:30:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [07:30:06] [Server thread/INFO]: Saving...
+Console	: [07:30:06] [Server thread/INFO]: Saved the world
+Console	: [07:30:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [07:36:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:36:06] [Server thread/INFO]: Nemesis
+Console	: [07:40:40] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [07:40:40] [Server thread/INFO]: Nemesis left the game
+Console	: [07:40:52] [Server thread/INFO]: Nemesis[/186.77.168.109:27426] logged in with entity id 52397 at (-736.2529614188059, 64.0, 483.6682857877463)
+Console	: [07:40:52] [Server thread/INFO]: Nemesis joined the game
+Console	: [07:40:52] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [07:40:52] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [07:45:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [07:45:06] [Server thread/INFO]: Saving...
+Console	: [07:45:06] [Server thread/INFO]: Saved the world
+Console	: [07:45:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [07:51:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:51:06] [Server thread/INFO]: Nemesis
+Console	: [07:52:45] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [07:52:45] [Server thread/INFO]: Nemesis left the game
+Console	: [07:57:06] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [07:57:06] [Server thread/INFO]: Saving is already turned on.
+Console	: [07:57:06] [Server thread/INFO]: Saving...
+Console	: [07:57:06] [Server thread/INFO]: Saved the world
+Console	: [07:57:06] [Server thread/INFO]: Stopping the server
+Console	: [07:57:06] [Server thread/INFO]: Stopping server
+Console	: [07:57:06] [Server thread/INFO]: Saving players
+Console	: [07:57:06] [Server thread/INFO]: Saving worlds
+Console	: [07:57:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [07:57:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [07:57:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [18:43:40] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [18:43:40] [Server thread/INFO]: Loading properties
+Console	: [18:43:40] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [18:43:40] [Server thread/INFO]: Generating keypair
+Console	: [18:43:40] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [18:43:40] [Server thread/INFO]: Using epoll channel type
+Console	: [18:43:41] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [18:43:41] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [18:43:41] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [18:43:41] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [18:43:41] [Server thread/INFO]: Preparing level "world"
+Console	: [18:43:41] [Server thread/INFO]: Preparing start region for level 0
+Console	: [18:43:42] [Server thread/INFO]: Preparing spawn area: 13%
+Console	: [18:43:43] [Server thread/INFO]: Preparing spawn area: 49%
+Console	: [18:43:44] [Server thread/INFO]: Done (3.262s)! For help, type "help" or "?"
+Console	: [18:43:44] [Server thread/INFO]: Nemesis[/186.77.169.38:27281] logged in with entity id 364 at (-688.2978764526972, 60.0, 529.2696904360594)
+Console	: [18:43:44] [Server thread/INFO]: Nemesis joined the game
+Console	: [18:43:44] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [18:43:44] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [18:44:12] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [18:44:12] [Server thread/INFO]: Nemesis left the game
+Console	: [18:45:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [18:45:06] [Server thread/INFO]: Saving...
+Console	: [18:45:06] [Server thread/INFO]: Saved the world
+Console	: [18:45:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [18:49:06] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [18:49:06] [Server thread/INFO]: Saving is already turned on.
+Console	: [18:49:06] [Server thread/INFO]: Saving...
+Console	: [18:49:06] [Server thread/INFO]: Saved the world
+Console	: [18:49:06] [Server thread/INFO]: Stopping the server
+Console	: [18:49:06] [Server thread/INFO]: Stopping server
+Console	: [18:49:06] [Server thread/INFO]: Saving players
+Console	: [18:49:06] [Server thread/INFO]: Saving worlds
+Console	: [18:49:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [18:49:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [18:49:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Console	: [18:49:06] [Server Shutdown Thread/INFO]: Stopping server
+Console	: [18:49:06] [Server Shutdown Thread/INFO]: Saving players
+Console	: [18:49:06] [Server Shutdown Thread/INFO]: Saving worlds
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [21:26:03] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [21:26:03] [Server thread/INFO]: Loading properties
+Console	: [21:26:03] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [21:26:03] [Server thread/INFO]: Generating keypair
+Console	: [21:26:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [21:26:04] [Server thread/INFO]: Using epoll channel type
+Console	: [21:26:04] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [21:26:04] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [21:26:04] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [21:26:04] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [21:26:04] [Server thread/INFO]: Preparing level "world"
+Console	: [21:26:04] [Server thread/INFO]: Preparing start region for level 0
+Console	: [21:26:05] [Server thread/INFO]: Preparing spawn area: 11%
+Console	: [21:26:06] [Server thread/INFO]: Preparing spawn area: 80%
+Console	: [21:26:07] [Server thread/INFO]: Done (2.693s)! For help, type "help" or "?"
+Console	: [21:26:07] [Server thread/INFO]: caplaw[/190.181.158.247:60320] logged in with entity id 265 at (-726.0321883802895, 72.0, 496.344032794742)
+Console	: [21:26:07] [Server thread/INFO]: caplaw joined the game
+Console	: [21:26:07] [Server thread/INFO]: [Server] Welcome back, caplaw
+Console	: [21:26:07] [Server thread/INFO]: You whisper to caplaw: Que hongo
+Console	: [21:30:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [21:30:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [21:30:06] [Server thread/INFO]: Saving...
+Console	: [21:30:06] [Server thread/INFO]: Saved the world
+Console	: [21:30:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [21:35:49] [Server thread/INFO]: caplaw has just earned the achievement [Hot Topic]
+Console	: [21:41:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [21:41:06] [Server thread/INFO]: caplaw
+Console	: [21:45:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [21:45:06] [Server thread/INFO]: Saving...
+Console	: [21:45:06] [Server thread/INFO]: Saved the world
+Console	: [21:45:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [21:50:28] [Server thread/INFO]: caplaw has just earned the achievement [Acquire Hardware]
+Console	: [21:54:10] [Server thread/INFO]: caplaw lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [21:54:10] [Server thread/INFO]: caplaw left the game
+Console	: [21:59:06] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [21:59:06] [Server thread/INFO]: Saving is already turned on.
+Console	: [21:59:06] [Server thread/INFO]: Saving...
+Console	: [21:59:06] [Server thread/INFO]: Saved the world
+Console	: [21:59:06] [Server thread/INFO]: Stopping the server
+Console	: [21:59:06] [Server thread/INFO]: Stopping server
+Console	: [21:59:06] [Server thread/INFO]: Saving players
+Console	: [21:59:06] [Server thread/INFO]: Saving worlds
+Console	: [21:59:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [21:59:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [21:59:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Console	: [21:59:07] [Server Shutdown Thread/INFO]: Stopping server
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [22:46:12] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [22:46:12] [Server thread/INFO]: Loading properties
+Console	: [22:46:12] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [22:46:12] [Server thread/INFO]: Generating keypair
+Console	: [22:46:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [22:46:13] [Server thread/INFO]: Using epoll channel type
+Console	: [22:46:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [22:46:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [22:46:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [22:46:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [22:46:13] [Server thread/INFO]: Preparing level "world"
+Console	: [22:46:13] [Server thread/INFO]: Preparing start region for level 0
+Console	: [22:46:14] [Server thread/INFO]: Preparing spawn area: 19%
+Console	: [22:46:15] [Server thread/INFO]: Preparing spawn area: 76%
+Console	: [22:46:15] [Server thread/INFO]: Done (2.625s)! For help, type "help" or "?"
+Console	: [22:46:16] [Server thread/INFO]: Nemesis[/186.77.169.38:27252] logged in with entity id 343 at (-733.2980506624924, 57.0, 514.8027275463785)
+Console	: [22:46:16] [Server thread/INFO]: Nemesis joined the game
+Console	: [22:46:16] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [22:46:16] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [22:52:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [22:52:06] [Server thread/INFO]: Nemesis
+Console	: [22:58:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [22:58:06] [Server thread/INFO]: Nemesis
+Console	: [23:00:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:00:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:00:06] [Server thread/INFO]: Saving...
+Console	: [23:00:06] [Server thread/INFO]: Saved the world
+Console	: [23:00:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:06:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:06:06] [Server thread/INFO]: Nemesis
+Console	: [23:12:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:12:06] [Server thread/INFO]: Nemesis
+Console	: [23:15:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:15:06] [Server thread/INFO]: Saving...
+Console	: [23:15:06] [Server thread/INFO]: Saved the world
+Console	: [23:15:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:21:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:21:06] [Server thread/INFO]: Nemesis
+Console	: [23:27:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:27:06] [Server thread/INFO]: Nemesis
+Console	: [23:29:04] [Server thread/INFO]: Nemesis has just earned the achievement [DIAMONDS!]
+Console	: [23:30:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [23:30:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:30:06] [Server thread/INFO]: Saving...
+Console	: [23:30:06] [Server thread/INFO]: Saved the world
+Console	: [23:30:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:36:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:36:06] [Server thread/INFO]: Nemesis
+Console	: [23:42:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:42:06] [Server thread/INFO]: Nemesis
+Console	: [23:45:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [23:45:06] [Server thread/INFO]: Saving...
+Console	: [23:45:06] [Server thread/INFO]: Saved the world
+Console	: [23:45:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [23:51:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:51:06] [Server thread/INFO]: Nemesis
+Console	: [23:57:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [23:57:06] [Server thread/INFO]: Nemesis
+Console	: [00:00:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [00:00:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:00:06] [Server thread/INFO]: Saving...
+Console	: [00:00:06] [Server thread/INFO]: Saved the world
+Console	: [00:00:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:06:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [00:06:06] [Server thread/INFO]: Nemesis
+Console	: [00:10:55] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [00:10:55] [Server thread/INFO]: Nemesis left the game
+Console	: [00:15:06] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [00:15:06] [Server thread/INFO]: Saving is already turned on.
+Console	: [00:15:06] [Server thread/INFO]: Saving...
+Console	: [00:15:06] [Server thread/INFO]: Saved the world
+Console	: [00:15:06] [Server thread/INFO]: Stopping the server
+Console	: [00:15:06] [Server thread/INFO]: Stopping server
+Console	: [00:15:06] [Server thread/INFO]: Saving players
+Console	: [00:15:06] [Server thread/INFO]: Saving worlds
+Console	: [00:15:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [00:15:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [00:15:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Console	: [00:15:07] [Server Shutdown Thread/INFO]: Stopping server
+Console	: 2015-07-31 00:15:07,255 ERROR Attempted to append to non-started appender File
+Console	: Exception in thread "Server Shutdown Thread" org.apache.logging.log4j.core.appender.AppenderLoggingException: Attempted to append to non-started appender ServerGuiConsole
+Console	: 2015-07-31 00:15:07,256 ERROR Unable to write to stream logs/latest.log for appender File
+Console	: 	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:89)
+Console	: 2015-07-31 00:15:07,257 ERROR An exception occurred processing Appender File org.apache.logging.log4j.core.appender.AppenderLoggingException: Error writing to RandomAccessFile logs/latest.log
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:425)
+Console	: 	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:109)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:406)
+Console	: 	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.write(RollingRandomAccessFileManager.java:90)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:367)
+Console	: 	at org.apache.logging.log4j.core.appender.OutputStreamManager.write(OutputStreamManager.java:129)
+Console	: 	at org.apache.logging.log4j.core.Logger.log(Logger.java:110)
+Console	: 	at org.apache.logging.log4j.core.appender.AbstractOutputStreamAppender.append(AbstractOutputStreamAppender.java:113)
+Console	: 	at org.apache.logging.log4j.spi.AbstractLogger.info(AbstractLogger.java:1011)
+Console	: 	at org.apache.logging.log4j.core.appender.RollingRandomAccessFileAppender.append(RollingRandomAccessFileAppender.java:96)
+Console	: 	at net.minecraft.server.MinecraftServer.t(SourceFile:376)
+Console	: 	at org.apache.logging.log4j.core.config.AppenderControl.callAppender(AppenderControl.java:99)
+Console	: 	at net.minecraft.server.MinecraftServer$2.run(SourceFile:715)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.callAppenders(LoggerConfig.java:425)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:406)
+Console	: 	at org.apache.logging.log4j.core.config.LoggerConfig.log(LoggerConfig.java:367)
+Console	: 	at org.apache.logging.log4j.core.Logger.log(Logger.java:110)
+Console	: 	at org.apache.logging.log4j.spi.AbstractLogger.info(AbstractLogger.java:1011)
+Console	: 	at net.minecraft.server.MinecraftServer.t(SourceFile:376)
+Console	: 	at net.minecraft.server.MinecraftServer$2.run(SourceFile:715)
+Console	: Caused by: java.io.IOException: Stream Closed
+Console	: 	at java.io.RandomAccessFile.writeBytes(Native Method)
+Console	: 	at java.io.RandomAccessFile.write(RandomAccessFile.java:525)
+Console	: 	at org.apache.logging.log4j.core.appender.rolling.RollingRandomAccessFileManager.flush(RollingRandomAccessFileManager.java:106)
+Console	: 	... 12 more
+Console	: 2015-07-31 00:15:07,266 ERROR Attempted to append to non-started appender ServerGuiConsole
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [00:25:54] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [00:25:54] [Server thread/INFO]: Loading properties
+Console	: [00:25:54] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [00:25:54] [Server thread/INFO]: Generating keypair
+Console	: [00:25:55] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [00:25:55] [Server thread/INFO]: Using epoll channel type
+Console	: [00:25:55] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [00:25:55] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [00:25:55] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [00:25:55] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [00:25:55] [Server thread/INFO]: Preparing level "world"
+Console	: [00:25:55] [Server thread/INFO]: Preparing start region for level 0
+Console	: [00:25:56] [Server thread/INFO]: Preparing spawn area: 44%
+Console	: [00:25:56] [Server thread/INFO]: Done (1.713s)! For help, type "help" or "?"
+Console	: [00:26:02] [Server thread/INFO]: Nemesis[/186.77.169.38:27471] logged in with entity id 366 at (-689.2675517572625, 60.0, 530.0357925671533)
+Console	: [00:26:02] [Server thread/INFO]: Nemesis joined the game
+Console	: [00:26:02] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [00:26:02] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [00:30:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [00:30:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [00:30:06] [Server thread/INFO]: Saving...
+Console	: [00:30:06] [Server thread/INFO]: Saved the world
+Console	: [00:30:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [00:33:42] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [00:33:42] [Server thread/INFO]: Nemesis left the game
+Console	: [00:38:06] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [00:38:06] [Server thread/INFO]: Saving is already turned on.
+Console	: [00:38:06] [Server thread/INFO]: Saving...
+Console	: [00:38:06] [Server thread/INFO]: Saved the world
+Console	: [00:38:06] [Server thread/INFO]: Stopping the server
+Console	: [00:38:06] [Server thread/INFO]: Stopping server
+Console	: [00:38:06] [Server thread/INFO]: Saving players
+Console	: [00:38:06] [Server thread/INFO]: Saving worlds
+Console	: [00:38:06] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [00:38:06] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [00:38:06] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [01:35:52] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [01:35:52] [Server thread/INFO]: Loading properties
+Console	: [01:35:52] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [01:35:52] [Server thread/INFO]: Generating keypair
+Console	: [01:35:52] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [01:35:53] [Server thread/INFO]: Using epoll channel type
+Console	: [01:35:53] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [01:35:53] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [01:35:53] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [01:35:53] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [01:35:53] [Server thread/INFO]: Preparing level "world"
+Console	: [01:35:53] [Server thread/INFO]: Preparing start region for level 0
+Console	: [01:35:54] [Server thread/INFO]: Preparing spawn area: 51%
+Console	: [01:35:55] [Server thread/INFO]: Done (2.081s)! For help, type "help" or "?"
+Console	: [01:35:57] [Server thread/INFO]: Nemesis[/186.77.169.38:27276] logged in with entity id 369 at (-735.4599873438564, 69.0, 511.52521363993026)
+Console	: [01:35:57] [Server thread/INFO]: Nemesis joined the game
+Console	: [01:35:57] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [01:35:58] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [01:41:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [01:41:06] [Server thread/INFO]: Nemesis
+Console	: [01:45:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [01:45:06] [Server thread/INFO]: Saving...
+Console	: [01:45:06] [Server thread/INFO]: Saved the world
+Console	: [01:45:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [01:51:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [01:51:06] [Server thread/INFO]: Nemesis
+Console	: [01:57:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [01:57:06] [Server thread/INFO]: Nemesis
+Console	: [02:00:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [02:00:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [02:00:06] [Server thread/INFO]: Saving...
+Console	: [02:00:06] [Server thread/INFO]: Saved the world
+Console	: [02:00:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [02:06:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [02:06:06] [Server thread/INFO]: Nemesis
+Console	: [02:12:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [02:12:06] [Server thread/INFO]: Nemesis
+Console	: [02:15:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [02:15:06] [Server thread/INFO]: Saving...
+Console	: [02:15:06] [Server thread/INFO]: Saved the world
+Console	: [02:15:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [02:21:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [02:21:06] [Server thread/INFO]: Nemesis
+Console	: [02:27:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [02:27:06] [Server thread/INFO]: Nemesis
+Console	: [02:30:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [02:30:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [02:30:06] [Server thread/INFO]: Saving...
+Console	: [02:30:06] [Server thread/INFO]: Saved the world
+Console	: [02:30:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [02:36:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [02:36:06] [Server thread/INFO]: Nemesis
+Console	: [02:41:17] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [02:41:17] [Server thread/INFO]: Nemesis left the game
+Console	: [02:45:06] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [02:45:06] [Server thread/INFO]: Saving...
+Console	: [02:45:06] [Server thread/INFO]: Saved the world
+Console	: [02:45:06] [Server thread/INFO]: [Server] Save Complete
+Console	: [02:46:06] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [02:46:06] [Server thread/INFO]: Saving is already turned on.
+Console	: [02:46:06] [Server thread/INFO]: Saving...
+Console	: [02:46:06] [Server thread/INFO]: Saved the world
+Console	: [02:46:06] [Server thread/INFO]: Stopping the server
+Console	: [02:46:07] [Server thread/INFO]: Stopping server
+Console	: [02:46:07] [Server thread/INFO]: Saving players
+Console	: [02:46:07] [Server thread/INFO]: Saving worlds
+Console	: [02:46:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [02:46:07] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [02:46:07] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Console	: [02:46:07] [Server Shutdown Thread/INFO]: Stopping server
+Console	: [02:46:07] [Server Shutdown Thread/INFO]: Saving players
+Console	: [02:46:07] [Server Shutdown Thread/INFO]: Saving worlds
+Console	: [02:46:07] [Server Shutdown Thread/INFO]: Saving chunks for level 'world'/Overworld
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [05:56:21] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [05:56:21] [Server thread/INFO]: Loading properties
+Console	: [05:56:21] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [05:56:21] [Server thread/INFO]: Generating keypair
+Console	: [05:56:21] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [05:56:21] [Server thread/INFO]: Using epoll channel type
+Console	: [05:56:21] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [05:56:21] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [05:56:21] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [05:56:21] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [05:56:21] [Server thread/INFO]: Preparing level "world"
+Console	: [05:56:21] [Server thread/INFO]: Preparing start region for level 0
+Console	: [05:56:22] [Server thread/INFO]: Preparing spawn area: 49%
+Console	: [05:56:23] [Server thread/INFO]: Done (1.684s)! For help, type "help" or "?"
+Console	: [05:56:24] [Server thread/INFO]: Nemesis[/186.77.169.38:27254] logged in with entity id 380 at (-707.0642904779398, 64.0, 529.1575847287525)
+Console	: [05:56:24] [Server thread/INFO]: Nemesis joined the game
+Console	: [05:56:24] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [05:56:24] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [06:00:06] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [06:00:07] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [06:00:07] [Server thread/INFO]: Saving...
+Console	: [06:00:07] [Server thread/INFO]: Saved the world
+Console	: [06:00:07] [Server thread/INFO]: [Server] Save Complete
+Console	: [06:06:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:06:06] [Server thread/INFO]: Nemesis
+Console	: [06:12:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:12:07] [Server thread/INFO]: Nemesis
+Console	: [06:15:07] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [06:15:07] [Server thread/INFO]: Saving...
+Console	: [06:15:07] [Server thread/INFO]: Saved the world
+Console	: [06:15:07] [Server thread/INFO]: [Server] Save Complete
+Console	: [06:21:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:21:07] [Server thread/INFO]: Nemesis
+Console	: [06:27:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:27:07] [Server thread/INFO]: Nemesis
+Console	: [06:30:07] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [06:30:07] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [06:30:07] [Server thread/INFO]: Saving...
+Console	: [06:30:07] [Server thread/INFO]: Saved the world
+Console	: [06:30:07] [Server thread/INFO]: [Server] Save Complete
+Console	: [06:33:24] [Server thread/INFO]: Nemesis has just earned the achievement [Enchanter]
+Console	: [06:33:35] [Server thread/INFO]: Nemesis has just earned the achievement [Librarian]
+Console	: [06:39:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:39:07] [Server thread/INFO]: Nemesis
+Console	: [06:45:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:45:07] [Server thread/INFO]: Nemesis
+Console	: [06:45:07] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [06:45:07] [Server thread/INFO]: Saving...
+Console	: [06:45:07] [Server thread/INFO]: Saved the world
+Console	: [06:45:07] [Server thread/INFO]: [Server] Save Complete
+Console	: [06:51:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:51:07] [Server thread/INFO]: Nemesis
+Console	: [06:57:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [06:57:07] [Server thread/INFO]: Nemesis
+Console	: [07:00:07] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [07:00:07] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [07:00:07] [Server thread/INFO]: Saving...
+Console	: [07:00:07] [Server thread/INFO]: Saved the world
+Console	: [07:00:07] [Server thread/INFO]: [Server] Save Complete
+Console	: [07:06:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:06:07] [Server thread/INFO]: Nemesis
+Console	: [07:12:06] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:12:07] [Server thread/INFO]: Nemesis
+Console	: [07:15:07] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [07:15:07] [Server thread/INFO]: Saving...
+Console	: [07:15:07] [Server thread/INFO]: Saved the world
+Console	: [07:15:07] [Server thread/INFO]: [Server] Save Complete
+Console	: [07:17:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2222ms behind, skipping 44 tick(s)
+Console	: [07:23:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:23:07] [Server thread/INFO]: Nemesis
+Console	: [07:29:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:29:07] [Server thread/INFO]: Nemesis
+Console	: [07:30:07] [Server thread/INFO]: [Server] This server is running McMyAdmin Personal v2.5.4.0
+Console	: [07:30:07] [Server thread/INFO]: [Server] Saving world data. Expect lag for a short while.
+Console	: [07:30:07] [Server thread/INFO]: Saving...
+Console	: [07:30:07] [Server thread/INFO]: Saved the world
+Console	: [07:30:07] [Server thread/INFO]: [Server] Save Complete
+Console	: [07:36:07] [Server thread/INFO]: There are 1/5 players online:
+Console	: [07:36:07] [Server thread/INFO]: Nemesis
+Console	: [07:36:51] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [07:36:51] [Server thread/INFO]: Nemesis left the game
+Console	: [07:41:07] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [07:41:07] [Server thread/INFO]: Saving is already turned on.
+Console	: [07:41:07] [Server thread/INFO]: Saving...
+Console	: [07:41:07] [Server thread/INFO]: Saved the world
+Console	: [07:41:07] [Server thread/INFO]: Stopping the server
+Console	: [07:41:07] [Server thread/INFO]: Stopping server
+Console	: [07:41:07] [Server thread/INFO]: Saving players
+Console	: [07:41:07] [Server thread/INFO]: Saving worlds
+Console	: [07:41:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [07:41:07] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [07:41:07] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [02:19:06] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [02:19:06] [Server thread/INFO]: Loading properties
+Console	: [02:19:06] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [02:19:06] [Server thread/INFO]: Generating keypair
+Console	: [02:19:06] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [02:19:06] [Server thread/INFO]: Using epoll channel type
+Console	: [02:19:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [02:19:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [02:19:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [02:19:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [02:19:07] [Server thread/INFO]: Preparing level "world"
+Console	: [02:19:07] [Server thread/INFO]: Preparing start region for level 0
+Console	: [02:19:08] [Server thread/INFO]: Preparing spawn area: 52%
+Console	: [02:19:08] [Server thread/INFO]: Done (1.828s)! For help, type "help" or "?"
+Console	: [02:19:09] [Server thread/INFO]: Nemesis[/186.77.169.38:27256] logged in with entity id 392 at (-689.3328364465407, 60.0, 530.5469775454774)
+Console	: [02:19:09] [Server thread/INFO]: Nemesis joined the game
+Console	: [02:19:09] [Server thread/INFO]: [Server] Welcome back, Nemesis
+Console	: [02:19:09] [Server thread/INFO]: You whisper to Nemesis: Que hongo
+Console	: [02:20:09] [Server thread/INFO]: Nemesis lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [02:20:09] [Server thread/INFO]: Nemesis left the game
+Console	: [02:25:07] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [02:25:07] [Server thread/INFO]: Saving is already turned on.
+Console	: [02:25:07] [Server thread/INFO]: Saving...
+Console	: [02:25:07] [Server thread/INFO]: Saved the world
+Console	: [02:25:07] [Server thread/INFO]: Stopping the server
+Console	: [02:25:07] [Server thread/INFO]: Stopping server
+Console	: [02:25:07] [Server thread/INFO]: Saving players
+Console	: [02:25:07] [Server thread/INFO]: Saving worlds
+Console	: [02:25:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [02:25:07] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [02:25:07] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
+Notice	: Server is no longer sleeping.
+Notice	: Server is no longer sleeping.
+Notice	: Server jar hash is ff01a4ec-844f-6466-5c22-2dce9471df66
+Notice	: Starting Minecraft Server...
+Console	: [07:51:18] [Server thread/INFO]: Starting minecraft server version 1.8.7
+Console	: [07:51:18] [Server thread/INFO]: Loading properties
+Console	: [07:51:18] [Server thread/INFO]: Default game type: SURVIVAL
+Console	: [07:51:18] [Server thread/INFO]: Generating keypair
+Console	: [07:51:18] [Server thread/INFO]: Starting Minecraft server on *:25565
+Console	: [07:51:18] [Server thread/INFO]: Using epoll channel type
+Console	: [07:51:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+Console	: [07:51:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+Console	: [07:51:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+Console	: [07:51:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+Console	: [07:51:18] [Server thread/INFO]: Preparing level "world"
+Console	: [07:51:19] [Server thread/INFO]: Preparing start region for level 0
+Console	: [07:51:20] [Server thread/INFO]: Preparing spawn area: 40%
+Console	: [07:51:20] [Server thread/INFO]: Done (1.947s)! For help, type "help" or "?"
+Console	: [07:51:21] [Server thread/INFO]: caplaw[/190.181.183.112:2135] logged in with entity id 344 at (-733.3371819270482, 68.0, 511.36645753919333)
+Console	: [07:51:21] [Server thread/INFO]: caplaw joined the game
+Console	: [07:51:21] [Server thread/INFO]: [Server] Welcome back, caplaw
+Console	: [07:51:21] [Server thread/INFO]: You whisper to caplaw: Que hongo
+Console	: [07:54:20] [Server thread/INFO]: caplaw lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null, insertion=null}}
+Console	: [07:54:20] [Server thread/INFO]: caplaw left the game
+Console	: [07:59:07] [Server thread/INFO]: [Server] Server shutting down immediately. World is being saved. Entering sleep state
+Console	: [07:59:07] [Server thread/INFO]: Saving is already turned on.
+Console	: [07:59:07] [Server thread/INFO]: Saving...
+Console	: [07:59:07] [Server thread/INFO]: Saved the world
+Console	: [07:59:07] [Server thread/INFO]: Stopping the server
+Console	: [07:59:07] [Server thread/INFO]: Stopping server
+Console	: [07:59:07] [Server thread/INFO]: Saving players
+Console	: [07:59:07] [Server thread/INFO]: Saving worlds
+Console	: [07:59:07] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+Console	: [07:59:07] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+Console	: [07:59:07] [Server thread/INFO]: Saving chunks for level 'world'/The End
+Notice	: Minecraft server has stopped running.
+Notice	: Server is now sleeping...
