@@ -72,3 +72,48 @@ cd McMyAdmin
 ./MCMA2_Linux_x86_64
 cd McMyAdmin
 ./MCMA2_Linux_x86_64
+./MCMA2_Linux_x86_64
+cd McMyAdmin
+./MCMA2_Linux_x86_64
+./MCMA2_Linux_x86_64 -setpass shadow123
+cd MyMcAdmin
+tree
+git init
+apt-get install git
+sudo apt-get install git
+git init
+git add .
+git commit -m 'First commit'
+git config --global paul.raviles@gmail.com
+git commit -m 'First commit'
+git commit -m 'First commit'
+git config --global 'paul.raviles@gmail.com'
+git commit -m 'First commit'
+git remote add origin https://github.com/buste12345/minecrafty.git
+git commit -m "first commit"
+git config user.name buste12345
+git commit -m "first commit"
+git config --global paul.raviles@gmail.com
+git commit -m "first commit"
+git config --local -l
+$git config --global user.email paul.raviles@gmail.com
+$git config --global paul.raviles@gmail.com
+git commit -m "first commit"
+git commit -m 'FIRST'
+git config --unset --local user.name
+git config --unset --local user.email
+git config --local -l
+git config --list --global | grep user
+git config --list --global
+git commit -m 'FIRST'
+ git config --global "paul.raviles@gmail.com"
+git commit -m 'FIRST'
+git config --global buste12345
+git config --global "buste12345"
+git config --global user.name "buste12345"
+git config --global buste12345
+git commit -m 'FIRST'
+git config --global user.email "paul.raviles@gmail.com"
+git commit -m 'FIRST'
+git push -u origin master
+git push -u origin master
